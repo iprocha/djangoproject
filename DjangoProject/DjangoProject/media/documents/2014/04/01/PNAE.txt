@@ -1,0 +1,2603 @@
+
+
+Programa Nacional
+de Atividades Espaciais
+PNAE
+2005 - 2014
+Brasília, DF
+2005
+Presidente da República
+Luiz Inácio Lula da Silva
+Ministro da Ciência e Tecnologia
+Eduardo Campos
+Presidente da Agência Espacial Brasileira
+Sergio Gaudenzi
+Chefe de Gabinete
+Luis Humberto Savastano
+Diretor de Planejamento, Orçamento e Administração
+Agnaldo de Sousa Barbosa
+Diretor de Política Espacial e Investimentos Estratégicos
+Himilcon de Castro Carvalho
+Diretor de Transporte Espacial e Licenciamento
+João Luiz Filgueiras de Azevedo
+Diretor de Satélites, Aplicações e Desenvolvimento
+Miguel Henze
+Programa Nacional
+de Atividades Espaciais
+2005 - 2014
+Ministério da Ciência e Tecnologia
+Agência Espacial Brasileira
+SPO Sul Área 5 Quadra 3 Bloco A
+CEP 70610-200 Brasília, DF
+htt://www.aeb.gov.br
+e-mail: ccs@aeb.gov.br
+Coordenação da revisão do Programa Nacional de Atividades Espaciais
+Grupo de Trabalho - GT - 11
+Dr. Luiz Carlos Moura Miranda (Presidente, representante do Ministério da Ciência e Tecnologia)
+Major Brigadeiro do Ar. Tiago da Silva Ribeiro (Comando da Aeronáutica)
+Dr. Walter Bartels (Setor Industrial)
+Dr. Paulo Sérgio Coelho Bedran (Ministério do Desenvolvimento, Indústria e Comércio Exterior)
+Emb. Everton Vieira Vargas (Ministério das Relações Exteriores)
+Dr. Himilcon de Castro Carvalho (Secretário Executivo - Agência Espacial Brasileira)
+Design e projeto gráfico
+Anderson Lopes de Moraes
+Capa
+Ailton Gomes Maciel
+Revisão de arte
+Elaine Martins Castro de Araújo
+Ficha catalográfica elaborada pela
+Biblioteca de Política em C&T do Ministério da Ciência e Tecnologia
+Todos os direitos reservados à Agência Espacial Brasileira. Os textos
+contidos nesta publicação podem ser reproduzidos, armazenados ou
+transmitidos, desde que citada a fonte.
+Agência Espacial Brasileira.
+Programa Nacional de Atividades Espacial : PNAE / Agência Espacial Brasileira.
+Brasília : Ministério da Ciência e Tecnologia, Agência Espacial Brasileira, 2005.
+114 p. : il.
+1. Pesquisa espacial – Brasil. 2. Tecnologia espacial – Brasil. 3. Exploração espacial
+– Brasil. I. Brasil. Ministério da Ciência e Tecnologia. II. Título.
+CDU: 52(81)(083.97)
+Sumário
+Apresentação. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Introdução. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Estratégia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Observação da Terra. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Missões Científicas e Tecnológicas . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Telecomunicações . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Meteorologia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Acesso ao Espaço. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Infra-Estrutura. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+Pesquisa e Desenvolvimento . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Recursos Humanos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Política Industrial. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+Temas Transversais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Execução. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Anexo I – Marco Legal das Atividades Espaciais . . . . . . . . . . . . . . . . . . . . 83
+Anexo II – Lei nº 8.854, de 10 de fevereiro de 1994. . . . . . . . . . . . . . . . . . 89
+Anexo III – Decreto nº 1.332, de 8 de dezembro de 1994. . . . . . . . . . . . . . . . 95
+Anexo IV – Decreto nº 1.953, de 10 de julho de 1996 . . . . . . . . . . . . . . . . 109
+Índice de Siglas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+
+Apresentação
+O Programa Nacional de Atividades Espaciais – PNAE – é estratégico para o desenvolvimento
+soberano do Brasil. A importância da capacitação no domínio da tecnologia espacial, que, em seu
+ciclo completo, abrange centros de lançamento, veículos lançadores, satélites e cargas úteis, decorre
+de sua relevância para o futuro do País. Aqui não aportarão tecnologias estratégicas por deferência
+de terceiros. Teremos de desenvolvê-las com nossos recursos, em grande e integrado esforço, para
+superarmos os desafios da era das telecomunicações e do sensoriamento por satélites.
+Somente os países que dominem a tecnologia espacial poderão ter autonomia na elaboração de
+cenários de evolução global capazes de levar em conta tanto os impactos da ação humana, quanto
+os dos fenômenos naturais. Serão estes os países em condição de sustentar posições e argumentar
+nas mesas de negociação diplomática.
+A terceira revisão do PNAE, que cobre o período de 2005 a 2014, orientou-se por essas diretrizes.
+O texto seqüente resulta de um debate aberto à sociedade, que culminou no Seminário de Revisão
+do Programa Espacial Brasileiro, realizado em dezembro de 2004 no Congresso Nacional. Nele
+tiveram larga participação representantes do Governo, de segmentos científicos, acadêmicos e
+empresariais.
+Comprova a revisão que, durante a gestão do Presidente Luiz Inácio Lula da Silva, firma-se clara inflexão
+positiva na curva de investimentos do programa espacial brasileiro, conseqüência do compromisso
+do Governo com o desenvolvimento da ciência, da tecnologia e da inovação no País. Trata-se de
+oportunidade, que iremos aprofundar e ampliar, para ombrear o Brasil com os países que compõem
+o restrito grupo de detentores de tecnologia espacial.
+Agradeço o trabalho de todas as instituições – a exemplo do Ministério da Defesa, por meio
+dos representantes do Comando da Aeronáutica – que contribuíram para a realização do PNAE
+2005–2014. Reconhecimento que estendo, de modo especial, à Agência Espacial Brasileira e ao
+seu Conselho Superior, responsável final pela elaboração de um plano que atesta a capacidade dos
+brasileiros de enxergar a longo prazo, com visão estratégica, um reflexo da maturidade da Nação
+e de seus dirigentes.
+Eduardo Campos
+Ministro da Ciência e Tecnologia
+
+Introdução
+A atividade espacial contribui de maneira significativa para o projeto de
+desenvolvimento do Brasil, seja pelas informações que disponibiliza, sob
+a forma de imagens e dados coletados sobre o território nacional, seja
+pelo efeito indutor de inovação que decorre dos esforços na aquisição e no
+desenvolvimento de tecnologias e de conhecimentos críticos para atender às
+necessidades do Programa Nacional de Atividades Espaciais – PNAE, os quais
+resultam em proveito para a indústria e para a sociedade.
+As missões de satélites, cargas úteis suborbitais e balões, para Observação
+da Terra, Meteorologia, Ciências Espaciais e Telecomunicações respondem
+às necessidades governamentais para a implementação de políticas públicas
+eficazes e a solução de problemas nacionais nesse campo.
+A construção de veículos lançadores, outro ponto decisivo para a estratégia
+do Programa Espacial no País, não apenas garante e preserva a necessária
+autonomia para o acesso ao espaço, como possibilita, também, a exploração
+comercial de serviços de lançamento.
+Para suporte de todas as atividades que se desenvolvem em torno da
+fabricação, integração, testes, lançamento e controle dos veículos espaciais,
+é de importância absoluta toda a infra-estrutura mantida pelo PNAE, uma vez
+que, sem a qual, seria impossível qualquer desenvolvimento autônomo.
+Buscando vencer os desafios tecnológicos que se apresentam na execução de
+grandes projetos mobilizadores, o PNAE se firma, mediante a prática de ações
+de Pesquisa e Desenvolvimento, juntamente com o setor acadêmico, como
+forte indutor de inovação, fato que repercute diretamente na capacitação
+e na competitividade da indústria nacional, sob a forma de aquisição de
+competências e tecnologias estratégicas, de novas metodologias e processos
+VLS-1 no Centro de Lançamento
+de Alcântara
+10
+Programa Nacional de Atividades Espaciais (PNAE)
+de trabalho, à luz de normas de qualidade de padrão internacional. Este
+conhecimento é fator de modernização e alavancagem de todo o setor
+produtivo do país, por meio de mecanismos de absorção de tecnologia.
+Na base de todo este esforço, encontram-se os recursos humanos, um
+conjunto integrado por diversos atores responsáveis pelas competências críticas
+que tornam exeqüível a implementação e o desenvolvimento das múltiplas
+atividades do Programa Espacial.
+Este documento, que é fruto da terceira revisão do Programa Nacional de
+Atividades Espaciais – PNAE, e abrange o período de 2005 a 2014, responde
+às orientações da Política Nacional de Desenvolvimento de Atividades Espaciais
+– PNDAE, definindo missões e estabelecendo ações destinadas a concretizar os
+objetivos ali estabelecidos. Nele se incluem, também, as prioridades e diretrizes
+que norteiam a execução do conjunto das atividades espaciais e que deverão
+servir de referência para o planejamento anual e plurianual dos componentes
+do Sistema Nacional de Desenvolvimento de Atividades Espaciais – SINDAE.
+Sergio Gaudenzi
+Presidente da Agência Espacial Brasileira
+
+12
+Programa Nacional de Atividades Espaciais (PNAE)
+Estratégia
+Fundamentação
+O Programa Nacional de Atividades Espaciais – PNAE – tem por objetivo
+capacitar o país para desenvolver e utilizar tecnologias espaciais na solução de
+problemas nacionais e em benefício da sociedade brasileira, contribuindo para
+a melhoria da qualidade de vida, por meio da geração de riqueza e oferta de
+empregos, do aprimoramento científico, da ampliação da consciência sobre
+o território e melhor percepção das condições ambientais.
+A prática mostra que as ações na área das atividades espaciais exigem
+investimentos de grande vulto, que devem, portanto, ser aplicados com
+parcimônia e sob critérios muito precisos. Tornou-se essencial, então, proceder
+a uma seleção que privilegiasse, sobretudo, o que resultasse em vantagens
+técnicas de real proveito para o Programa, e, paralelamente, respondesse de
+modo efetivo às necessidades da sociedade. Mantendo estes focos, foi possível
+selecionar as seguintes aplicações: Observação da Terra, Missões Científicas e
+Tecnológicas, Telecomunicações e Meteorologia.
+Os esforços empregados pelo PNAE no desenvolvimento de foguetes de
+sondagem e de veículos lançadores e no domínio das tecnologias associadas
+visam assegurar a capacidade de acesso ao espaço, um fator imprescindível para
+viabilizar as missões orbitais e suborbitais previstas no Programa. Tais missões
+de satélites, cargas úteis suborbitais ou orbitais e balões estratosféricos vêm
+alcançando resultados importantes no sentido de suprir as necessidades do
+Governo brasileiro com subsídios para a maior eficácia na implementação de
+políticas públicas de preservação e utilização sustentável de recursos naturais,
+a atender à demanda da sociedade em geral e à de seus setores produtivos,
+em particular, de informações sobre as mudanças ambientais e climáticas,
+e, ainda, a disponibilizar dados que sirvam de suporte às investigações da
+comunidade científica na busca e produção de conhecimentos mais precisos
+sobre o planeta e sobre o Universo.
+Satélite de Coleta de Dados (SCD-2)
+em teste no LIT/INPE
+14
+Programa Nacional de Atividades Espaciais (PNAE)
+Ressalte-se que o Brasil tem competência internacionalmente reconhecida
+nas áreas de Sensoriamento Remoto, Geoprocessamento, Ciências Espaciais e
+Meteorologia, fato que agrega valor e credibilidade aos dados e informações
+obtidos pelos satélites de que dispomos, ampliando a capacidade de suprir a
+demanda crescente do mercado que depende dos serviços de monitoramento
+por eles fornecidos. Ademais,
+graças a essa mesma competência,
+tem sido possível a formação
+de parcerias internacionais de
+grande valor estratégico, as
+quais inserem o País de maneira
+soberana no cenário econômico
+e político mundial. No campo
+das relações internacionais, por
+outro lado, tem-se atribuído
+atenção especial a iniciativas de
+cooperação com países de grau
+de desenvolvimento e dificuldades
+similares aos do Brasil.
+Por fim, é importante ressaltar que todas as atividades de pesquisa espacial e de
+desenvolvimento e lançamento de satélites e foguetes dependem de dois fatores
+sem os quais jamais se viabilizaria. Um é o conjunto de instalações, sistemas
+ou equipamentos de solo que constituem indispensável infra-estrutura, na
+qual se incluem os centros de lançamento de foguetes, de veículos lançadores
+de satélites e de balões estratosféricos; os laboratórios especializados de
+fabricação, testes e integração; as estações e centros de rastreio e controle,
+bem como de recepção, tratamento e disseminação de dados de satélites. O
+outro reside, sem dúvida, no âmbito dos recursos humanos disponíveis, um
+reduzido contingente de técnicos e especialistas dotados de alta capacitação
+em todos os domínios das tecnologias espaciais, que se encontra distribuído
+não apenas no setor governamental, mas também no acadêmico e no industrial.
+A continuidade e o sucesso do PNAE exigem necessariamente a preservação e
+o incremento das competências e dos conhecimentos estratégicos que estão
+de posse desta pequena comunidade espacial.
+Foguete de sondagem VS - 30
+15
+As Atividades Espaciais no Contexto Nacional
+Organização
+As atividades espaciais no Brasil se desenvolvem de acordo com o Sistema
+Nacional de Desenvolvimento das Atividades Espaciais – SINDAE, instituído pelo
+Decreto nº 1.953, de 10 de julho de 1996. O SINDAE resulta da congregação
+de várias instituições, as quais exercem papéis distintos:
+i.	Como órgão de coordenação central, vinculado ao Ministério da Ciência
+e Tecnologia – MCT, a Agência Espacial Brasileira – AEB; e, por intermédio
+do Conselho Superior da AEB, ministérios e outros órgãos do governo,
+bem como entidades da sociedade civil;
+ii.	Como órgãos setoriais de execução, o Instituto Nacional de Pesquisas
+Espaciais – INPE, vinculado à Subsecretaria de Controle das Unidades
+de Pesquisa – SCUP, do MCT, e o Departamento de Pesquisa e
+Desenvolvimento – DEPED, órgão do Comando da Aeronáutica,
+do Ministério da Defesa. Subordinam-se ao DEPED: a) o Instituto
+de Aeronáutica e Espaço – IAE, por intermédio do Centro Técnico
+Aeroespacial – CTA; b) o Centro de Lançamento de Alcântara – CLA;
+c) o Centro de Lançamento da Barreira do Inferno – CLBI;
+iii.	Como órgãos e entidades participantes, dentre outros, o setor industrial
+e as universidades brasileiras que desenvolvem pesquisas e projetos na
+área espacial.
+Situação Atual do Programa Espacial
+O Programa Nacional de Atividades Espaciais – PNAE – conseguiu consolidar
+uma comunidade científica internacionalmente reconhecida. Trata-se de
+um grupo de competentes especialistas que constituem uma sólida base
+de profissionais de engenharia e de tecnologia espaciais e de pesquisadores
+especializados em ciências espaciais, sensoriamento remoto e meteorologia
+por satélite.
+16
+Programa Nacional de Atividades Espaciais (PNAE)
+No âmbito das aplicações espaciais, o País exibe, hoje, resultados bastante
+expressivos que decorrem de um trabalho de longo prazo, voltado para
+a implantação de uma infra-estrutura indispensável aos trabalhos, para a
+formação de pessoal e para o desenvolvimento de metodologias e ferramentas
+adequadas às demandas do Programa. Como conseqüência, as técnicas de
+sensoriamento remoto orbital
+foram incorporadas ao cotidiano
+de diversas atividades de elevado
+valor social e econômico e
+propiciaram o surgimento de um
+crescente número de empresas de
+prestação de serviços.
+O es for ço empregado no
+desenvolvimento de satélites foi coroado pelo sucesso dos programas Coleta de
+Dados - SCD - e Satélite Sino-Brasileiro de Recursos Terrestres – CBERS, que têm
+contribuído de modo significativo para a utilização de informação espacial na gestão
+governamental e para o surgimento de novas oportunidades de negócio.
+O desenvolvimento de Foguetes de Sondagem e Veículos Lançadores de
+Satélites – VLS-1 – vem permitindo ao país, cada vez mais, consolidar os
+conhecimentos em propulsão, materiais e processos, controle e guiagem, e
+experimentos científicos que têm aumentado significativamente a participação
+industrial e as pesquisas científicas na área espacial.
+Encontra-se implantada, também, uma ampla infra-estrutura de apoio, na
+qual se destacam, o Centro de Lançamento de Alcântara - CLA, o Centro
+de Lançamento da Barreira do Inferno - CLBI, o Laboratório de Integração
+e Testes - LIT, o Centro de Rastreio e Controle de Satélites - CRC, a Usina
+de Propelentes Coronel Abner - UCA, além de numerosos observatórios e
+laboratórios de pesquisa, bem como nichos tecnológicos no setor privado.
+De muito proveito tem sido a participação da indústria nacional que contribui
+para o desenvolvimento de projetos do PNAE, demonstrando possuir técnicos
+competentes, com grau elevado de qualificação acadêmica, similar ao
+encontrado nos institutos de pesquisa do SINDAE.
+Satélite Sino-Brasileiro de Recursos
+Terrestres (CBERS)
+17
+O PNAE, a despeito desse quadro favorável, vem acumulando, ao longo
+dos últimos anos, carências decorrentes de orçamentos anuais fortemente
+declinantes, que criaram barreiras não só para a recomposição e manutenção
+de equipes técnicas, como também para a reposição do material necessário à
+sustentação dos seus projetos. Este fato ficou muito evidente com a fatalidade
+ocorrida durante a terceira campanha de lançamento do Veículo Lançador
+de Satélites , VLS 1-03, em 2003. Tal situação levou a AEB a propor uma
+série de medidas de revitalização do Programa Espacial, as quais têm sido
+implementadas com o apoio do governo, consciente da importância estratégica
+do Programa para o Brasil.
+As Atividades Espaciais no Contexto Internacional
+A globalização das atividades espaciais governamentais, desenvolvidas por
+meio de mecanismos de cooperação internacional e representada pela Estação
+Espacial Internacional, empreendimento integrado pelo Brasil, marcou, na
+última década, o uso do espaço. Há pouco tempo, no entanto, desenhase,
+internacionalmente, um quadro bem nítido de retomada dos grandes
+projetos de exploração do espaço. Enquanto os Estados Unidos e a Europa
+realizam explorações robóticas do solo marciano e anunciam futuras missões
+a Marte e à Lua, a China avança em seu programa espacial tripulado e planeja
+uma futura exploração da Lua. Na mesma direção, Índia e Japão revelam,
+independentemente, a intenção de realizar missões não-tripuladas à Lua, e a
+Rússia aventa a hipótese de iniciar uma grande missão a Marte.
+Assim, um cenário que se supunha superado e substituído pela ênfase em
+projetos de pequeno porte e pela preocupação com o retorno financeiro dos
+investimentos foi, no curto prazo, recuperado e potencializado, trazendo a
+volta dos megaprojetos destinados à exploração espacial do Sistema Solar.
+A exploração terrestre também está em foco, com grandes projetos
+internacionais de observação e monitoramento, tais como o GPM (Global
+Precipitation Monitoring), conduzido pelos EUA e pelo Japão, e o GEOSS (Global
+Earth Observation System of Systems) que congrega mais de 50 países.
+18
+Programa Nacional de Atividades Espaciais (PNAE)
+Somem-se a isso os recentes vôos suborbitais tripulados realizados por empresas
+privadas nos Estados Unidos, o que descortina uma nova realidade na qual,
+em breve, os vôos espaciais estarão disponíveis ao público.
+Esta situação decorre da conjuntura internacional que hoje se desenha, na
+qual os orçamentos dos diversos países detentores da tecnologia espacial têm
+apresentado crescimento médio de 7% ao ano desde 2002, e onde se prevê
+um crescimento anual de 2% a 5% no futuro.
+Este contexto de retomada, e
+mesmo, anteriormente, a aparente
+distensão sugerida pelo fim da
+guerra fria, não tem afetado
+significativamente o cenário
+nacional no que concerne à
+aquisição e à transferência de
+tecnologias críticas. Pelo contrário,
+houve um reforço dos mecanismos de bloqueio de transferência nessa área,
+à luz de uma lógica que, no contexto da guerra fria, era fundamentalmente
+uma lógica Oeste e Leste e, agora, se tornou uma lógica Norte e Sul.
+No Brasil, verifica-se o crescente interesse internacional na utilização da região
+de Alcântara (MA) para instalação de sítios de lançamento. Neste sentido, foi
+aprovado e assinado, em 2004, um tratado com a Ucrânia, para lançamentos
+comerciais, sob a responsabilidade de uma empresa binacional, criada pelo
+mesmo documento. Este modelo de comercialização deverá ser utilizado em
+futuros acordos com outros países interessados.
+Estratégia de Implementação do Programa Nacional de
+Atividades Espaciais - PNAE
+Princípios
+A análise dos contextos nacional e internacional que, por um lado, prenuncia
+uma retomada do crescimento da atividade espacial no Brasil, e, por outro,
+Lançador VLS - 1 na Torre Móvel de
+Integração (TMI)
+19
+apresenta enormes barreiras tecnológicas a vencer, exige que esta atividade seja
+cuidadosamente planejada e focada em prioridades que conduzam o país com
+segurança à almejada autonomia na área espacial. Este constitui um esforço
+para o qual devem contribuir todos os atores envolvidos – governo, academia
+e indústria – de forma coordenada. Impõe-se, portanto, que se estabeleça uma
+estratégia de implementação do Programa Nacional de Atividades Espaciais
+- PNAE e que se baseie, concretamente, nos seguintes princípios:
+1.	Foco no atendimento às necessidades dos usuários públicos de bens e
+serviços espaciais.
+2.	Autonomia na área de pequenos satélites e respectivos veículos
+lançadores.
+3.	Adoção de padrões de segurança e qualidade compatíveis com as
+normas internacionais.
+4.	Busca da sustentabilidade do modelo de financiamento das atividades
+espaciais mediante a comercialização de bens e serviços espaciais.
+5.	Integração da indústria e da academia ao conjunto das instituições
+envolvidas com a implementação do PNAE.
+6.	Fortalecimento das instituições, direta ou indiretamente envolvidas com
+a implementação do PNAE, com ênfase em:
+i.	Formação, capacitação e alocação de recursos humanos de modo a
+favorecer a inovação tecnológica e o aperfeiçoamento da gestão;
+ii.	Utilização de métodos, técnicas e ferramentas de gestão do
+conhecimento gerado no âmbito destas instituições; e
+iii.	Utilização de métodos, técnicas e ferramentas de planejamento
+estratégico e tecnológico para a área espacial.
+Prioridades para o Período Decenal
+A partir dos princípios diretores estabelecidos anteriormente, pode-se identificar
+as grandes prioridades do PNAE para o período decenal:
+20
+Programa Nacional de Atividades Espaciais (PNAE)
+1.	Continuação do desenvolvimento do Veículo Lançador de Satélites -
+VLS e seus sucessores, com incremento da participação industrial, e da
+infra-estrutura de lançamento, incluindo o Centro de Lançamento de
+Alcântara - CLA.
+2.	Em todas as missões, sempre que possível, será agregada uma carga
+útil para manutenção e atualização do Sistema de Coleta de Dados
+Brasileiro, eliminando a necessidade de satélites específicos.
+3.	Conclusão do projeto da Plataforma Multimissão e suas cargas úteis.
+4.	Continuação do projeto dos satélites CBERS e dos meios de processamento
+e distribuição de imagens.
+5.	Promoção da comercialização dos meios de acesso ao espaço, pela
+implantação da infra-estrutura geral do Centro Espacial de Alcântara,
+que inclui sítios de lançamento comerciais.
+6.	Investimentos em Pesquisa e Desenvolvimento voltados para o domínio
+de tecnologias críticas, com participação dos setores acadêmico e
+industrial.
+7.	Condução de projetos mobilizadores, que atendam às demandas
+nacionais em Observação da Terra, Missões Científicas e Tecnológicas,
+Telecomunicações e Meteorologia, incluindo o desenvolvimento de
+satélites geoestacionários, de satélites de observação por radar de
+abertura sintética - SAR e missões científicas com satélites, balões e
+foguetes de sondagem.
+8.	Manutenção e industrialização do bem-sucedido programa de foguetes
+de sondagem.
+9.	Incremento da participação da indústria nacional no desenvolvimento
+das atividades e projetos contemplados pelo Programa, promovendo,
+inclusive, a transferência de tecnologias geradas no INPE e no CTA.
+10.	Utilização de instrumentos de cooperação internacional que envolvam
+transferência de tecnologia e coincidam com os interesses nacionais.
+
+
+Observação da Terra
+Fundamentação
+O espaço exterior é o único local de onde se pode observar a Terra como um
+todo. Desse modo, em temas como mudanças globais, avaliação das florestas
+tropicais e estudos climáticos, o uso de satélites de observação é a única forma
+de obter dados de forma sistemática e consistente.
+O Brasil, dadas as grandes e isoladas extensões que compõem seu território, é
+um país que só pode ser efetivamente observado por meio de instrumentos
+de coleta, como imagens de satélite. O controle por satélites de observação
+é, na prática, o único meio de monitoramento realmente eficaz e abrangente
+em certas áreas, em decorrência de sua importância econômica, de exigências
+do controle estratégico de fronteiras, de agressões ambientais persistentes, ou
+de vigilância, como a Região Amazônica brasileira, que abriga a maior floresta
+tropical do mundo, com área aproximada de 5 milhões de km² ou as 200
+milhas náuticas, ao longo dos 8.000 km da costa brasileira, que representa
+uma área agregada ao território nacional de cerca de 3 milhões de quilômetros
+quadrados.
+Adicionalmente, em função do incremento constante da grande área ocupada
+pelo setor de agronegócio brasileiro, o uso de imagens orbitais para obtenção
+de informações úteis à agricultura e à pecuária vem sendo ampliado, permitindo
+um conhecimento circunstanciado do uso e ocupação das terras no Brasil, de
+sua dinâmica espaço-temporal e de seus impactos sobre o ambiente.
+A utilização de imagens de satélite é ainda fundamental quando é preciso
+obter informação de forma rápida sobre eventos cuja localização e ocorrência
+sejam de difícil previsão ou acesso, como nos casos de desastres naturais (p. ex.
+enchentes, ciclones, e outros) ou produzidos pelo homem (p. ex. queimadas
+ou poluição causada por derramamento de óleo no mar), e ainda voltados ao
+gerenciamento de crises.
+Imagem do Rio de Janeiro do
+satélite CBERS
+24
+Programa Nacional de Atividades Espaciais (PNAE)
+Para o mapeamento cartográfico, as imagens de satélite podem substituir ou
+complementar os levantamentos aerofotogramétricos, desde que utilizadas
+na escala adequada para cada tipo de dado.
+Missões
+Programa Satélites de Sensoriamento Remoto - SSR
+Para o Brasil, quando se consideram os aspectos ecológicos, econômicos e
+estratégicos, é de extrema importância o controle da exploração do solo e
+dos recursos naturais, bem como a proteção do meio ambiente. Trata-se
+da necessidade premente de controlar as mudanças rápidas e profundas
+provocadas, muitas vezes, por eventos da natureza, como enchentes e secas,
+mas também, por intervenção humana, como queimadas, cultura do solo,
+desflorestamento, extração de minérios e de madeira.
+Estas e muitas outras ocorrências exigem a implantação de um sistema de
+monitoramento eficiente que forneça um acesso rápido às informações
+concernentes, além de uma alta freqüência de aquisição de dados. Para tanto,
+foi concebido o programa de Satélites de Sensoriamento Remoto – SSR. Com
+órbitas equatoriais ou polares, os satélites do Programa utilizarão um módulo
+de serviço multiuso denominado Plataforma Multimissão - PMM. A esse módulo
+deverão ser adicionadas cargas úteis, com sensores ópticos ou não-ópticos,
+por meio de interfaces padronizadas, de forma que o conjunto constituirá um
+satélite operacional, conforme a aplicação especificada.
+Programa Sino-Brasileiro
+O Programa do Satélite Sino-Brasileiro de Recursos Terrestres - CBERS, em sua
+primeira fase, de 1988 a 2003, previa a fabricação e o lançamento de dois
+satélites de sensoriamento remoto. O primeiro deles, lançado em outubro de
+1999, operou com sucesso até agosto de 2003, superando em quase dois
+anos a sua vida útil projetada. Enquanto se encontrou em operação, produziu
+imagens que foram rotineiramente utilizadas no Brasil e na China. O segundo
+satélite, lançado em outubro de 2003, ainda que seja uma réplica do primeiro,
+incorpora muitas melhorias, gerando imagens de qualidade superior àquelas
+produzidas pelo CBERS-1.
+25
+Com base no sucesso de desenvolvimento desses dois satélites, em novembro
+de 2002, iniciando uma segunda fase da parceria em tecnologia espacial, Brasil
+e China assinaram novo Protocolo de Cooperação, que prevê a fabricação de
+mais dois satélites, CBERS-3 e
+CBERS- 4, com características
+mai s avançadas que os
+antecedentes.
+Dada a grande aceitação
+das imagens do CBERS-2 e
+a necessidade de minimizar
+o risco de interrupção no
+fornecimento de imagens,
+foi decidida, em julho de
+2004, a fabricação do satélite
+CBERS-2B, uma réplica do
+CBERS-2. Em substituição à
+câmera para imageamento
+na faixa do infravermelho da
+primeira versão, a réplica incorporará uma nova câmera com mais recursos,
+isto é, resolução espacial de 2,5m, o que amplia significativamente o leque de
+aplicações das imagens geradas.
+Programa de Coleta de Dados
+A operação do Sistema Brasileiro de Coleta de Dados Ambientais teve início
+com a colocação em órbita do satélite SCD-1, em 1993. Com vida útil estimada
+de um ano, o SCD-1 já completou mais de onze anos em operação e necessita
+de reposição urgente. A capacidade operacional do sistema foi ampliada com
+os lançamentos dos satélites SCD-2, em 1998; CBERS-1, em 1999, que operou
+até agosto de 2003; e CBERS-2, em 2003. Esta capacidade continuará a ser
+mantida e ampliada com a inclusão de cargas úteis de coleta de dados nos
+futuros satélites do Programa.
+O Sistema disponibiliza dados ambientais oriundos de diferentes regiões do
+território nacional, por intermédio de Plataformas de Coleta de Dados. Graças
+a diferentes sensores, as plataformas coletam dados ambientais locais que
+Imagem do Distrito
+Federal - Satélite
+CBERS
+26
+Programa Nacional de Atividades Espaciais (PNAE)
+são retransmitidos pelos satélites do sistema para as estações de recepção em
+Cuiabá e Alcântara. Os dados são, em seguida, processados pelo Centro de
+Missão em Cachoeira Paulista (SP) e disponibilizados aos usuários via Internet.
+As principais aplicações concentram-se nas áreas de meteorologia
+e hidrologia.
+À época do lançamento do SCD-1, a rede inicial de
+plataformas de coleta de dados contava com cerca
+de 60 unidades instaladas. No final de 2003, esse
+número já havia aumentado para aproximadamente
+600, atestando o crescente e contínuo interesse da
+comunidade usuária. Tal interesse advém, principalmente,
+das vantagens operacionais e econômicas oferecidas pelo
+Sistema para a coleta de dados em âmbito nacional.
+Programa Radar de Abertura Sintética - RADAR
+O Satélite RADAR terá por função disponibilizar a usuários brasileiros imagens
+de alta resolução espacial, independentemente das condições de tempo, por
+meio de técnicas de Radar de Abertura Sintética - SAR.
+Este satélite vai permitir a realização da varredura de todo o território nacional
+para produzir imagens que podem ser utilizadas pela cartografia topográfica
+e temática, e, além disso, podem ter aplicações importantes em diversos
+setores que dependam de permanente monitoramento do espaço físico em
+que atuam, tais como a oceanografia, a mineração, a agricultura, o controle
+27
+de florestas e áreas de preservação ambiental, o combate a desastres, entre
+muitos outros.
+O controle do satélite, bem como a recepção e processamento dos dados
+obtidos por intermédio do satélite RADAR, ficará sob a responsabilidade do
+Segmento Solo que será subdividido em dois segmentos: o Segmento Solo de
+Rastreio e Controle que utilizará a infra-estrutura já existente no INPE, depois
+de adaptada para o satélite; e o Segmento Solo de Missão, que, contando
+com um centro de missão e estações de recepção de imagem, se encarregará
+do processamento de geração, correção e calibração dos dados, garantindo
+a qualidade do produto final.
+A plataforma de serviços do Satélite RADAR poderá ser contratada na indústria
+nacional. Esta poderá maximizar sua participação no desenvolvimento da
+carga útil por meio de um programa de P&D na área de Radares de Abertura
+Sintética.
+O projeto RADAR se encarregará, também, do desenvolvimento de softwares
+destinados a aplicações específicas e, ainda, do treinamento de usuários.
+Ações
+Recepção, Processamento e Distribuição de Imagens produzidas
+por Satélites
+A capacidade de receber, processar, distribuir e utilizar efetivamente imagens
+produzidas por satélites, nacionais ou internacionais, é fundamental para o
+desenvolvimento do País e deve ser não só mantida, mas também incrementada.
+Além disso, é imprescindível que seja levada a efeito de maneira coordenada,
+para evitar duplicidade de esforços entre órgãos do governo, e permitindo
+a redução dos custos para os usuários particulares ou governo no momento
+da aquisição das imagens disponibilizadas.
+Dentro desta perspectiva, está sendo Implantado o Centro de Dados de
+Sensoriamento Remoto para permitir acesso ao acervo de dados de imagens
+de satélites mantido pelo INPE.
+28
+Programa Nacional de Atividades Espaciais (PNAE)
+Tecnologias de Geoprocessamento
+Os usuários brasileiros de sensoriamento remoto contam com tecnologias de
+software livre desenvolvidas pelo INPE (SPRING e TerraLib).
+O software SPRING é o principal produto de geoprocessamento do INPE e vem
+sendo largamente utilizado por um grande número de instituições brasileiras.
+Uma versão sem custo do sistema (código executável) está disponível no sítio
+www.dpi.inpe.br/spring.
+A TerraLib é uma biblioteca de código fonte aberto, disponibilizada na Internet
+no sítio http://www.terralib.org, que permite a geração de aplicativos de
+geoprocessamento que integram dados espaciais (imagens e mapas) em
+sistemas gerenciadores de bancos de dados (SGBD).
+Como se trata de produto inédito em sua atualidade e funcionalidade, a TerraLib
+ampliará a autonomia tecnológica e científica nacional na área de bancos de
+dados geográficos e permitirá que grupos de pesquisa e desenvolvimento se
+apropriem criativamente da experiência acumulada pelo INPE, com benefícios
+para toda a sociedade brasileira.
+Política de Distribuição de Dados CBERS
+A recepção de dados com imagens CBERS é disponível a qualquer país ou
+organização, e as imagens serão distribuídas internacionalmente, mediante
+taxa de operação, por distribuidores licenciados que operem estações terrenas
+de recepção e processamento. As estações operadas pelo Brasil e pela China
+acessarão todos os dados, sem restrição.
+No Brasil, a política de acesso gratuito aos usuários nacionais tem como
+objetivo maximizar o uso das imagens CBERS de sensoriamento remoto pela
+29
+comunidade brasileira, dentro da política geral de inclusão digital do Governo
+Federal. Com a política adotada, espera-se que o CBERS venha a ser o principal
+satélite de sensoriamento remoto utilizado no Brasil.
+30
+Programa Nacional de Atividades Espaciais (PNAE)
+Missões Científicas
+e Tecnológicas
+Fundamentação
+Uma missão espacial pode-se classificar como científica, quando envolve
+experimentos científicos efetuados e embarcados em plataformas – satélites,
+foguetes de sondagem, veículos lançadores de satélites, plataformas orbitais
+recuperáveis ou balões – capazes de operar na alta atmosfera (estratosfera
+e camadas superiores) ou no espaço. Por outro lado, uma missão pode-se
+caracterizar como tecnológica se for desenvolvida para testar, no espaço, o
+desempenho de novos componentes, subsistemas e sistemas espaciais.
+Tradicionalmente, os elevados graus de desempenho e precisão exigidos dos
+sistemas, subsistemas e componentes das missões científicas, bem como a
+intensa mobilização que caracteriza a busca de objetivos científicos têm sido
+propícios ao surgimento de inovações tecnológicas de largo espectro de
+aplicação.
+O objetivo das missões científicas e tecnológicas, previstas no PNAE 2005-2014,
+é oferecer meios para realizar, nos ambientes orbital e suborbital, experimentos
+de reconhecido mérito, e que, adicionalmente, criem oportunidades para o
+envolvimento de novos grupos universitários nas atividades espaciais brasileiras.
+Almeja-se, também, uma intensa cooperação internacional em ambiente
+propício ao intercâmbio de informações científicas e tecnológicas.
+Missões
+Satélite de Pesquisa da Atmosfera Equatorial - EQUARS
+O Projeto EQUARS contempla o desenvolvimento de um satélite científico de
+pequeno porte, com massa de aproximadamente 100 kg, a ser lançado em
+órbita equatorial de baixa altitude.
+Foguete de sondagem VS-40
+32
+Programa Nacional de Atividades Espaciais (PNAE)
+Tem como objetivo observar fenômenos atmosféricos na região equatorial,
+tais como luminescência, descargas elétricas, fluxo de partículas e abundância
+de constituintes atmosféricos.
+As informações obtidas pelo EQUARS podem ser utilizadas para monitoramento
+global do perfil vertical da umidade do ar na região tropical e a assimilação dos
+dados em modelos de previsão numérica de tempo, além do monitoramento
+global da ionosfera para previsão do clima espacial.
+Os dados transmitidos pelo EQUARS serão captados por uma estação de
+recepção, a ser instalada em Alcântara (MA), dedicada às missões científicas
+e tecnológicas do PNAE ou outras missões científicas em cooperação
+internacional.
+Monitor e Imageador de Raios X - MIRAX
+O MIRAX é um satélite de pequeno porte com cerca de 200 kg de massa
+destinado à astronomia de raios X . Será o primeiro satélite astronômico
+brasileiro e colocará o país no seleto clube de nações que já construíram e
+colocaram em órbita satélites para observar o Universo. O objetivo da missão
+é realizar levantamentos completos de regiões importantes do Universo
+que contenham fontes de raios X, tais como as constelações de Cisne, Vela-
+Centauro e as Nuvens de Magalhães.
+A utilização de telescópios de raios X permite “enxergar” pormenores não
+perceptíveis no espectro da luz visível, aumentando significativamente a
+quantidade de informações que podem ser obtidas.
+Ações
+Plataformas Suborbitais
+As plataformas suborbitais lançadas por foguetes de sondagem constituem
+um meio extremamente útil e de baixo custo para as pesquisas da atmosfera,
+da ionosfera e de campos (gravimétrico e magnético), e pesquisas de novos
+33
+materiais e processos em ambiente de microgravidade. Os foguetes de
+sondagem – tecnologia inteiramente dominada pelo Brasil – serão utilizados
+rotineiramente para a realização de experimentos científicos e tecnológicos de
+interesse das comunidades acadêmica e industrial brasileiras.
+Plataformas Orbitais Recuperáveis
+Dentre as alternativas inovadoras para a realização de experimentos em
+ambiente de microgravidade, destacam-se as plataformas orbitais (ou satélites)
+recuperáveis. Durante o período decenal será executado o Projeto de Satélite
+de Reentrada Atmosférica - SARA, que consiste no desenvolvimento de uma
+plataforma desse tipo, capaz de levar até 55 kg de carga útil e de propiciar
+até dez dias de microgravidade, com a vantagem de ser reutilizável em outras
+missões.
+Balões Estratosféricos de Longa Duração
+A utilização de balões estratosféricos será estimulada como uma alternativa
+de baixo custo para experimentos científicos em satélites. Além de propiciar a
+condução de experimentos científicos, plataformas de balões estratosféricos
+podem desempenhar um papel muito importante para testes de diversos
+equipamentos e tecnologias espaciais.
+Estação Espacial Internacional
+A Estação Espacial Internacional – EEI – conta com a participação de 16
+países, dado que envolve as agências espaciais dos Estados Unidos, Rússia,
+Canadá, Japão, Itália, Brasil, além da Agência Espacial Européia – ESA, e
+se constituirá no maior laboratório montado em órbita. Em seu ambiente
+de microgravidade serão realizadas pesquisas nas
+áreas de física, química, biologia, fisiologia humana
+e experimentos tecnológicos. A EEI permitirá também
+pesquisas nas áreas de observação da Terra e ciências
+espaciais.
+A participação do Brasil na EEI insere o País no contexto
+Estação Espacial
+Internacional
+34
+Programa Nacional de Atividades Espaciais (PNAE)
+das missões tripuladas, com o treinamento e vôo do astronauta brasileiro, e
+da experimentação científica em microgravidade de longa duração.
+Programa Microgravidade
+As condições de microgravidade são propiciadas por vôos orbitais e suborbitais,
+tais como os realizados por foguetes de sondagem, plataformas orbitais
+recuperáveis, balões estratosféricos de longa duração e, futuramente, pela
+Estação Espacial Internacional. Estas condições permitem a realização de
+experimentos nas áreas de biotecnologia, fabricação de medicamentos,
+fisiologia humana, combustão, aperfeiçoamento dos processos de geração
+de energia na Terra, e materiais, incluindo processos de produção de
+semicondutores, vidros, ligas metálicas e cerâmicas, entre outras.
+O Programa Microgravidade compreende a divulgação regular de oportunidades,
+mediante chamadas públicas e editais, para realização de experimentos nos
+ambientes de microgravidade, proporcionados por foguetes de sondagem
+brasileiros e, futuramente, pela quota alocada ao Brasil na Estação Espacial
+Internacional. O Programa é desenvolvido em regime de colaboração entre a
+AEB, INPE, IAE/CTA e Academia Brasileira de Ciências – ABC – e conta, também,
+com a participação das universidades brasileiras.
+
+36
+Programa Nacional de Atividades Espaciais (PNAE)
+Telecomunicações
+Fundamentação
+O crescimento do mercado mundial de telecomunicações gera novas
+oportunidades para o desenvolvimento da indústria nacional. Com a
+privatização do mercado brasileiro, e em face do grande número de novas
+aplicações que hoje se concretizam no cenário das telecomunicações, o
+crescimento da demanda doméstica por tais sistemas tem levado à utilização
+de capacidade disponível em satélites estrangeiros.
+Estas considerações justificam um esforço de capacitação nacional na área,
+que possa qualificar empresas nacionais a participar deste mercado. O
+desenvolvimento de um sistema nacional completo, podendo inclusive atender
+cumulativamente a uma missão de meteorologia, responde diretamente a
+este objetivo de capacitação e aumento de competitividade do setor industrial
+nacional.
+Missões
+Satélite Brasileiro de Telecomunicações
+Esta missão de telecomunicações destina-se a desenvolver, no Brasil, satélites
+geoestacionários visando atender, de forma prioritária, aos objetivos e
+necessidades de governo nas áreas de comunicações seguras, meteorologia,
+e controle de tráfego aéreo.
+Ações
+Posições Orbitais Geoestacionárias
+Dado o caráter abrangente do Programa Nacional de Atividades Espaciais,
+quaisquer decisões relativas à utilização de órbitas geoestacionárias interessam
+à Agência Espacial Brasileira. À AEB caberá acompanhar o controle do uso de
+posições orbitais brasileiras para os serviços comerciais de telecomunicações,
+ainda que este seja atribuição da Agência Nacional de Telecomunicações
+– ANATEL.
+38
+Programa Nacional de Atividades Espaciais (PNAE)
+Meteorologia
+Fundamentação
+O tempo e o clima têm impactos diretos sobre quase todos os campos da
+economia, haja vista a nítida influência que exercem sobre a agricultura, a
+navegação marítima e aérea, a produção e a transmissão de energia. Além
+disto, nenhum país está a salvo de desastres naturais – secas, tempestades,
+furacões e ciclones – hoje, responsáveis pela perda de elevado número de vidas
+humanas e de bens materiais.
+No Brasil, graves problemas sociais e econômicos se devem ora à estiagem
+prolongada no semi-árido nordestino, ora a temporais em áreas densamente
+povoadas, como as grandes cidades. Hoje, até mesmo ciclones extratropicais,
+com invulgar freqüência, se registram no litoral sul do país. Por isto, informes
+rápidos e confiáveis sobre as condições meteorológicas, para planejar ações ou
+mitigar os efeitos desses eventos da natureza, são de importância capital.
+As informações meteorológicas, obtidas por meio de imagens e dados coletados
+por satélite, são de fundamental importância para a eficiência e precisão da
+previsão do tempo, do clima e de mudanças globais. Satélites meteorológicos,
+em órbitas baixas e geoestacionárias, podem monitorar as nuvens, a formação
+e o movimento de ciclones e o estado dos oceanos, os quais desempenham
+um importante papel na formação global do tempo.
+Entretanto, os usuários brasileiros desses satélites não
+conseguem fazer uso pleno dos recursos oferecidos pelos
+mesmos, face à rotina operacional e à política de disseminação
+de dados dos países detentores dos satélites meteorológicos
+geoestacionários que cobrem esta região do globo.
+Um satélite brasileiro que se destine ao monitoramento no campo
+da Meteorologia propiciará, por conseguinte, a necessária garantia
+de obtenção destas informações dentro dos parâmetros de disponibilidade
+temporal requeridos pelas instituições nacionais, os quais, não são
+satisfatoriamente fornecidos pelos sistemas internacionais disponíveis.
+Climatologia de temperatura
+jan/fev/mar
+Fonte: INMET
+40
+Programa Nacional de Atividades Espaciais (PNAE)
+Missões
+Geoestacionário
+Esta missão tem por objetivo principal o imageamento do território nacional com
+alta freqüência temporal (15 minutos), nas faixas do visível e do infravermelho,
+para apoio à previsão de tempo, monitoramento climático e alerta de tempestades
+severas, de forma a eliminar a dependência da rotina operacional e das regras
+de disseminação de informações meteorológicas, adotadas pelas instituições
+estrangeiras.
+Os serviços disponibilizados por esse satélite terão como clientes primários os
+centros de previsão de tempo, os sistemas de apoio à aviação civil e militar, e à
+navegação fluvial e marítima, além de órgãos públicos das áreas de agricultura,
+defesa civil, meio ambiente e recursos hídricos.
+A posição orbital que atende grande parte das necessidades desses clientes
+se situa entre os limites de 40° e 70° de longitude Oeste, com posição ideal
+em 55° de longitude Oeste, em 0° de latitude a 36.000 km de altitude (órbita
+geoestacionária).
+Monitoramento Global da Precipitação
+A precipitação atmosférica é uma das principais variáveis climáticas e o
+conhecimento da sua distribuição espacial é de fundamental importância
+para o monitoramento de tempo e clima. Contudo, medidas de precipitação
+precisas e com razoável freqüência temporal são difíceis de serem obtidas
+pois dependem essencialmente de uma rede adequada de observações de
+superfície e de altitude.
+Tendo em vista o hemisfério sul ter uma grande área oceânica e áreas
+continentais inóspitas e de difícil acesso, os dados de satélite são essenciais
+para complementar os dados da rede existente.
+A faixa do espectro eletromagnético mais adequada à medida da precipitação
+é a de microondas. Dessa forma, considera-se que um satélite equipado com
+um sensor nesta faixa, em órbita equatorial, contribuirá significativamente
+para este fim.
+41
+Esse satélite poderá ser inserido na participação brasileira no programa
+internacional Global Precipitation Measurement - GPM, o que permitirá ampliar
+a capacidade nacional de monitorar a precipitação. Ressalte-se que o Brasil
+já dispõe da tecnologia de radiômetros de microondas, tendo participado do
+desenvolvimento do sensor de umidade Humidity Sounder for Brazil - HSB,
+a bordo do satélite EOS PM-1 da NASA, e poderá desenvolver, em regime de
+parceria, a tecnologia específica para o GPM. Além disso, um satélite desse tipo
+poderá utilizar câmeras de grande campo de visada, semelhantes às câmeras
+WFI (Wide Field Imager) dos satélites CBERS, e uma plataforma de pequeno
+porte tal como a PMM (Plataforma Multimissão).
+Ações
+Coleta de Dados
+Para manter o país com capacidade satelital de retransmitir dados
+hidrometeorológicos e ambientais coletados pelas Plataformas de Coleta de
+Dados - PCD, instaladas em terra ou em bóias oceanográficas e meteorológicas,
+todos os satélites brasileiros, a serem desenvolvidos no âmbito do PNAE,
+principalmente os de órbita equatorial, tais como o SSR, EQUARS e o satélite
+GPM, serão equipados com cargas úteis de coleta de dados.
+Sistema de Coleta
+de Dados
+42
+Programa Nacional de Atividades Espaciais (PNAE)
+Acesso ao Espaço
+Fundamentação
+O desenvolvimento de veículos lançadores, orbitais e suborbitais é de
+importância estratégica, pois garante a necessária autonomia do país para o
+acesso ao espaço.
+O Brasil, por intermédio do Instituto de Aeronáutica e Espaço - IAE, do Centro
+Técnico Aeroespacial - CTA, e da indústria aeroespacial brasileira, concebeu e
+produziu um bem-sucedido conjunto de veículos de sondagem, incluindo a
+série SONDA e os foguetes VS. Esses foguetes já proporcionaram a realização de
+inúmeros experimentos científicos e tecnológicos por universidades e centros de
+pesquisa brasileiros e têm atraído, também, a atenção de usuários estrangeiros
+interessados na utilização do ambiente de microgravidade, proporcionado
+pelos vôos suborbitais, para suas pesquisas.
+O domínio da tecnologia dos foguetes de sondagem serviu de base para o
+desenvolvimento de um lançador de satélites de pequeno porte, denominado
+Veículo Lançador de Satélites, o VLS-1. Trata-se de um veículo de quatro
+estágios, capaz de lançar satélites de 100 a 350 kg, em altitudes de 200 a
+1.000 km.
+O Programa estabelece, ainda, que a etapa subseqüente será a de aquisição
+de tecnologia com o uso de combustível líquido, o que irá permitir o
+desenvolvimento de lançadores de médio e grande porte, visando à órbita
+geoestacionária.
+Paralelamente, espera-se que a contratação, na indústria nacional, de
+sistemas e subsistemas de lançadores e a exploração comercial de serviços de
+lançamento propiciem a geração de empregos qualificados e o surgimento
+de desdobramentos, ou spin-offs, da tecnologia espacial em outras áreas de
+atividade econômica.
+VLS-1, primeiro lançador de satélites
+brasileiro em desenvolvimento
+44
+Programa Nacional de Atividades Espaciais (PNAE)
+O desenvolvimento de lançadores será executado de forma autônoma, ou em
+parcerias internacionais, tendo como principais diretrizes:
+1. Projetar, desenvolver e construir veículos lançadores capazes de atender
+às missões previstas no PNAE.
+2. Tornar o Brasil independente quanto à capacidade de lançar os satélites
+de órbita baixa previstos no PNAE e qualificado para competir neste
+segmento do mercado internacional.
+3. Dotar o País de foguetes de sondagem que possam ser competitivos no
+mercado internacional.
+4. Capacitar a indústria nacional para projetar e fabricar sistemas de
+transporte espacial, particularmente foguetes de sondagem, incluindo
+componentes, equipamentos, subsistemas e sistemas completos.
+5. Buscar a redução dos custos das operações de lançamento e dos sistemas
+envolvidos, com vistas a incentivar a utilização maciça destes veículos
+por grupos universitários ou centros de pesquisa para a realização de
+experimentos científicos suborbitais ou orbitais.
+6. Capacitar o País na área de propulsão líquida, inicialmente para equipar
+os estágios destinados a garantir precisão de injeção em órbita dos
+satélites e subseqüentemente para integrar os grandes propulsores,
+objetivando o crescimento da capacidade dos veículos lançadores para
+disputar o mercado internacional de transporte espacial.
+7. Capacitar o País na produção de grandes propulsores a propelentes
+sólidos, para utilização em veículos lançadores de grande porte, como
+propulsores auxiliares.
+Missões
+Veículos de Sondagem
+Os foguetes de sondagem são lançadores de pequeno porte, utilizados para
+missões suborbitais de exploração do espaço, capazes de lançar cargas úteis
+compostas por experimentos científicos e tecnológicos.
+45
+O Brasil possui foguetes de sondagens operacionais que suprem suas
+necessidades presentes, com uma história bem-sucedida de lançamentos.
+Entretanto, a política de envolvimento crescente das universidades e centros
+de pesquisa no programa espacial deverá acarretar uma demanda maior destes
+veículos, justificando, assim, que se continue sua produção, estimada em,
+no mínimo, dois veículos por ano. Esta produção de veículos de sondagem,
+para atender às demandas de missões científicas e tecnológicas, deverá ser
+gradualmente transferida à indústria nacional.
+O quadro abaixo e a figura que o segue apresentam estes veículos.
+Foguetes de Sondagem
+Série Contexto Cargas úteis
+Massa (kg) Altitude (km)
+Sonda I Estudos da alta atmosfera Descontinuado
+Sonda II Verificação de inovações tecnológicas de proteções térmicas, propelentes, testes de
+componentes eletrônicos e estudos científicos
+30
+100
+100
+60
+Sonda III
+(2 estágios)
+Verificação de inovações nos sistemas de instrumentação, separação de estágios,
+ignição para o segundo estágio, teledestruição, controle de atitude dos três eixos
+da carga útil, recuperação da carga útil no mar, carga útil tecnológica para aquisição
+de dados durante todo o vôo e outros dispositivos eletrônicos
+50
+150
+700
+400
+Sonda IIIA Similar ao Sonda III, com envelope motor do segundo estágio em fibra de carbono. Em desenvolvimento
+150
+250
+360
+230
+VS-30 Constituído pelo primeiro estágio do Sonda III 200
+400
+185
+110
+VS-30/
+Orion
+Foguete desenvolvido em parceria com o DLR (Alemanha) com substituição do
+booster Nike pelo motor brasileiro S30 no veículo europeu Nike/Orion
+150
+300
+410
+250
+VSB-30 Veículo VS-30 com um propulsor tipo booster, denominado S31, atuando como
+um primeiro estágio, de modo a incrementar sua capacidade de carga útil e desempenho
+de trajetória.
+300
+500
+340
+230
+Sonda IV Introdução de materiais compostos, aço de ultra-alta resistência, propelentes, controle
+do vetor empuxo, motor-foguete com 1 m de diâmetro, eletrônica de bordo,
+sistemas de separação por cintura ejetável, controle analógico e digital e meios de
+solo, experimentos de interesse do programa VLS
+Descontinuado
+VS-40 Teste do quarto estágio do VLS em ambiente de vácuo, além de outros experimentos
+de interesse do programa VLS
+200
+400
+1250
+750
+VS-43 Veículo monoestágio com controle de atitude, empregando o propulsor S43 (segundo
+estágio do VLS-1)
+Em desenvolvimento
+46
+Programa Nacional de Atividades Espaciais (PNAE)
+Sonda II Sonda III Sonda IIIA VS-30/Orion VSB-30 Sonda IV VS-40 VS-43
+Lançadores de Pequeno Porte - VLS-1 e VLS-1B
+O VLS-1 é um veículo da classe de lançadores de pequenos satélites, capaz de
+lançar de 100 a 350 kg, em altitudes de 200 a 1.000 km.
+O processo de qualificação em vôo deste veículo teve início com o lançamento
+do primeiro protótipo em 2 de novembro de 1997 seguido de mais dois
+protótipos entre 1999 e 2003, quando ocorreu o grave acidente na terceira
+tentativa de lançamento.
+Atualmente, o VLS-1 está em fase de revisão, com previsão de lançamento do
+quarto protótipo em 2007.
+Encontra-se, também, em fase de estudos, uma versão aperfeiçoada (upgrade)
+do VLS-1, denominado VLS-1B, com utilização de combustível líquido em seu
+terceiro estágio, possibilitando a injeção de satélites pesando até 800kg, em
+órbita baixa - LEO - de até 750 km.
+Lançadores de Médio e Grande Porte
+O desenvolvimento de veículos de médio porte visa, em uma primeira fase,
+a satelização em órbitas baixas e, subseqüentemente, em órbitas média e de
+transferência geoestacionária para, de forma harmônica e coordenada, atender
+ao programa de satélites do PNAE.
+Foguetes de sondagem
+brasileiros
+VLS-1 e VLS- 1B
+47
+Para garantir a competitividade do veículo de médio porte, denominado VLS-2,
+o projeto deverá satisfazer alguns requisitos essenciais, que incluem:
+• Flexibilidade para realizar diferentes missões;
+• Baixos custos de desenvolvimento, produção e operação;
+• Curto período de desenvolvimento;
+• Alta confiabilidade;
+• Segurança para lançamentos em todo o espectro de inclinações;
+• Utilização preferencial de propelentes não-tóxicos;
+• Possibilidade de evolução para um veículo de maior porte.
+O VLS-2 encontra-se em fase de estudos com previsão de utilização de
+combustível líquido em todos os estágios, podendo utilizar combustível
+sólido nos propulsores auxiliares (boosters) do 1º estágio, de modo a colocar
+cargas úteis variando de 1.700 a 2.200 kg em órbita geoestacionária - GEO,
+de 36.000 km.
+O veículo de grande porte, VLS-3, encontra-se igualmente em fase de estudos,
+com previsão de utilização de combustível líquido em todos os estágios, de
+modo a atingir uma capacidade de injeção em órbita geoestacionária, de
+cargas úteis acima de 2.200 kg.
+Calendário de lançamento dos veículos nacionais
+Ano Veículo Carga Útil
+2007 VLS-1 EQUARS
+2008 VLS-1 B (upgrade) SSR-1
+2009 VLS-1 MIRAX
+2010 VLS-1 B (upgrade) GPM
+2011 VLS-2 GEO-1
+2011-2012 VLS-1 Satélite Científico - 1
+2013 VLS-1 Satélite Científico - 2
+2014 VLS-2 GEO-2
+48
+Programa Nacional de Atividades Espaciais (PNAE)
+Infra-Estrutura
+Fundamentação
+A Infra-Estrutura Espacial é composta pelo conjunto de laboratórios, centros,
+instalações e equipamentos que dão suporte à atividade espacial, ou seja, ao
+desenvolvimento, testes e operação de veículos lançadores e satélites, incluindo
+as atividades de pesquisa e desenvolvimento previstas no PNAE.
+As ações do Programa nesta área visam, principalmente, aos seguintes
+objetivos:
+1. Dotar o País de um centro de lançamento totalmente operacional que,
+explorando as vantagens decorrentes de sua localização equatorial,
+possa, também, oferecer ampla gama de serviços em condições
+comercialmente competitivas no âmbito internacional;
+2. Prover as atividades espaciais brasileiras de instalações laboratoriais
+e meios de produção atualizados, com capacidade para atender às
+necessidades básicas e de caráter estratégico do Programa nacional;
+3. Garantir a operacionalidade e a modernização de centros dedicados ao
+lançamento de cargas úteis suborbitais correspondentes a experimentos
+de caráter científico ou tecnológico;
+4. Consolidar a infra-estrutura necessária às atividades de montagem,
+integração e testes de satélites;
+5. Promover a utilização intensiva da infra-estrutura espacial brasileira,
+inclusive em apoio a outros setores de atividades, tendo em conta
+os elevados investimentos iniciais e a rápida obsolescência que,
+rotineiramente, caracterizam tais instalações;
+6. Viabilizar meios de acesso e serviços, de qualidade compatível com os
+padrões internacionais, necessários à plena utilização de informações,
+imagens e dados espaciais em geral pela sociedade.
+Vista aérea do Centro de
+Lançamento de Alcântara
+50
+Programa Nacional de Atividades Espaciais (PNAE)
+Infra-Estrutura de Apoio ao Desenvolvimento e
+Operação de Satélites
+Laboratório de Integração e Testes - LIT
+O Laboratório de Integração e Testes – LIT, do Instituto
+Nacional de Pesquisas Espaciais – INPE, único no gênero
+em toda a América Latina, foi concebido e implantado em
+São José dos Campos (SP), para desenvolver e executar as
+atividades de montagem, integração e testes funcionais e
+de qualificação de satélites e outros sistemas orbitais, bem
+como para a análise e qualificação de falhas de componentes
+para uso espacial.
+Além de atender a projetos espaciais previstos no PNAE,
+o LIT tem outros objetivos importantes, entre os quais,
+consolidar a transferência tecnológica por meio da realização
+e análise de testes, em todos os níveis, de componentes,
+a sistemas espaciais integrados; fomentar a participação da indústria
+brasileira nas atividades espaciais e assumir a contrapartida nos programas
+de desenvolvimento com outros países, visando intensificar o intercâmbio
+tecnológico.
+As atividades do LIT podem englobar desde a engenharia, suprimento,
+qualificação e aceitação de componentes e materiais até a qualificação e a
+aceitação de sistemas completamente integrados.
+Ao LIT cabe, ainda, desenvolver esforços constantes de atualização e capacitação
+para permitir a adequada execução das atividades que lhe competem.
+Laboratório Associado de Combustão e Propulsão - LCP
+O Laboratório Associado de Combustão e Propulsão – LCP, do Instituto
+Nacional de Pesquisas Espaciais – INPE, localizado em Cachoeira Paulista,
+possui capacidade operacional e de pesquisa instalada para o desenvolvimento
+e fornecimento de catalisadores utilizados em propulsores a decomposição
+Câmara anecóica, LIT
+51
+catalítica de hidrazina, comumente empregados em controle de órbita e de
+atitude de satélites.
+O LCP é o responsável pelo desenvolvimento e fornecimento do catalisador
+empregado no sistema propulsivo de correção de órbita de satélites, interagindo
+para a qualificação nacional de propulsor do sistema de controle de órbita e
+de atitude da Plataforma Multimissão - PMM.
+As principais ações requeridas, no período decenal, para apoio às necessidades
+do programa espacial são a implementação de um programa de garantia da
+qualidade dedicado aos bancos de testes e laboratórios, bem como uma
+rotina de manutenção e constante atualização dos equipamentos e softwares
+empregados no LCP. Será necessário, também, aumentar a capacidade
+dos bancos de testes e adequá-los para testes de motores que empregam
+combustíveis não poluentes.
+Centro de Rastreio e Controle de Satélites - CRC
+O Centro de Rastreio e Controle de Satélites – CRC – é um conjunto de sistemas
+de solo que permite ao INPE executar o rastreio e o controle em órbita de
+satélites, bem como a prestar serviços de suporte a satélites estrangeiros.
+As atividades de rastreio e controle conferem a este Centro características
+especiais, uma vez que exigem um regime de operação ininterrupto e
+absolutamente confiável. O suporte às missões presentes e futuras do PNAE
+exige, por este motivo, permanente atualização de equipamentos, além da
+aquisição de peças sobressalentes e equipamentos de teste e manutenção.
+O CRC é constituído pelo Centro de Controle de Satélites, em São José dos
+Campos (SP), e por duas estações terrenas, a de Cuiabá (MT), e a de Alcântara
+(MA), onde ainda será instalada mais uma dessas estações, que se dedicará ao
+controle dos satélites científicos. Além desta, já está prevista a aquisição de nova
+estação terrena para suporte aos satélites CBERS 3 e 4. Todas estas instalações
+encontram-se conectadas entre si pela Rede Dedicada de Comunicação de
+Dados – RECDAS.
+52
+Programa Nacional de Atividades Espaciais (PNAE)
+Infra-Estrutura de Apoio ao Desenvolvimento e
+Operação de Veículos Lançadores
+Centro Espacial de Alcântara - CEA/AEB e
+Centro de Lançamento de Alcântara - CLA/DEPED
+O Centro de Lançamento de Alcântara - CLA, localizado em Alcântara (MA),
+destina-se a prover, na região equatorial, serviços de lançamentos de veículos
+para missões suborbitais e orbitais.
+A proximidade da linha do Equador faz do CLA local privilegiado para o
+lançamento de satélites, pois proporciona mais segurança e economia
+significativa de combustível no lançamento.
+As atividades de lançamento e rastreio de veículos espaciais, para atender as
+missões governamentais previstas no PNAE, estarão a cargo do atual Centro
+de Lançamento de Alcântara, sob a responsabilidade do Departamento de
+Pesquisas e Desenvolvimento - DEPED, do Comando da Aeronáutica, conforme
+previsto no Sistema Nacional de Desenvolvimento de Atividades Espaciais
+- SINDAE.
+Para o suporte às atividades de lançamentos comerciais previstos no PNAE, será
+implantado o Centro Espacial de Alcântara - CEA, subordinado diretamente à
+Agência Espacial Brasileira.
+Sítio de lançamento
+do VLS-1
+53
+A implantação do Centro Espacial de Alcântara é imprescindível para a
+viabilização das operações comerciais de lançamento previstas com a Ucrânia, e
+futuramente com outros países interessados. As instalações do CEA fornecerão
+insumos e utilidades necessárias aos
+sítios de lançamento, tais como energia
+elétrica, água, gás, acesso por estradas
+e terminal portuário e proverá o suporte
+à hospedagem e serviços correlatos,
+como residências de funcionários,
+escolas e hospitais às equipes técnicas
+nacionais e internacionais envolvidas
+nas operações de lançamento. Também
+abrigará as representações locais de
+órgãos governamentais que intervêm
+diretamente nas atividades e operações,
+inclusive para recebimento, inspeção e preparação de partes e componentes
+de foguetes e satélites.
+Neste Centro, serão, também, instalados centros avançados de universidades,
+laboratórios, usinas de biomassa e biodiesel, além de empresas ligadas ao setor
+espacial e a outras atividades tecnológicas. Estão previstas, também, ações de
+preservação ambiental e estímulo ao turismo, além de instalações para suporte
+aos moradores da região, que contribuirão para o desenvolvimento local.
+Centro de Lançamento da Barreira do Inferno - CLBI/DEPED
+No que se refere a lançamentos orbitais, em particular os equatoriais, o CLBI,
+vinculado ao Departamento de Pesquisas e Desenvolvimento - DEPED do
+Comando da Aeronáutica, continuará a ocupar posição de destaque como
+estação de apoio, prestando serviços de rastreio e de segurança de veículos
+satelizadores lançados do CLA. Este serviço já está sendo prestado pelo CLBI
+em apoio a organizações estrangeiras, o que constitui um fator importante
+para a implantação da Rede de Rastreio e Controle de Veículos Lançadores.
+VLS-1 na plataforma
+de lançamento
+54
+Programa Nacional de Atividades Espaciais (PNAE)
+A atual capacitação do CLBI deverá ser preservada pela manutenção
+e modernização requeridas para operar com foguetes de sondagem.
+A modernização dos sistemas operacionais, de apoio técnico e de logística
+será a prioridade do período decenal para o CLBI.
+Usina de Propelentes Coronel Abner - UCA
+A Usina Coronel Abner, de produção de propelentes sólidos compósitos, foi
+planejada para atender à demanda dos propulsores dos veículos previstos
+no início do programa espacial. O projeto original previa, entretanto, a
+possibilidade de ampliação da usina, para fabricação de propulsores de maior
+diâmetro ou para uma maior cadência de produção. Esta ampliação será feita
+de modo coerente com as necessidades dos veículos lançadores previstos na
+programação atual.
+Ações
+Implantação e Melhorias Laboratoriais
+Para dar suporte às atividades previstas para o período decenal em questão,
+serão instalados no Instituto de Aeronáutica e Espaço - IAE, do Centro Técnico
+Aeroespacial - CTA, o Laboratório de Propulsão Líquida e o Laboratório de
+Aerodinâmica da Alta Velocidade, e realizadas melhorias e atualizações nos
+Laboratórios de Qualificação de Proteções Térmicas de Alto Desempenho, de
+Simulação Híbrida e Ensaios de Sensores Inerciais, de Medidas de Propriedades
+de Massa e no Sistema para Ensaios de Vibração de 105 kN.
+Complementação da Infra-estrutura Geral do Centro de
+Lançamento de Alcântara
+Dimensionado para um nível de operações que extrapola as perspectivas atuais
+do programa espacial brasileiro, de há muito se entende como desejável a
+exploração da capacidade ociosa do CLA e de suas vantagens competitivas
+derivadas principalmente da localização equatorial e das condições de
+55
+segurança, propiciadas pela geografia local, para a oferta de serviços de
+lançamento à comunidade internacional, em bases comerciais.
+Os atuais entendimentos entre o Brasil e países interessados na comercialização
+dos serviços prestados pelo CLA abrem perspectivas de cooperação na área de
+veículos espaciais com alta capacidade de carga e a comercialização do Centro
+de Lançamento de Alcântara.
+Esta opção representaria uma fonte de receitas importante para complementar
+o financiamento do Centro e contribuir, também, para viabilizar ações de P&D.
+Porém, não se deve desviar do objetivo principal da existência do CLA, que
+foi concebido para o desenvolvimento das atividades espaciais prioritárias, de
+caráter basicamente governamental, na execução do PNAE.
+56
+Programa Nacional de Atividades Espaciais (PNAE)
+Pesquisa e
+Desenvolvimento
+Fundamentação
+Buscando vencer os desafios tecnológicos que se apresentam na execução
+de grandes projetos mobilizadores, a atividade espacial não pode prescindir
+de ações de pesquisa e desenvolvimento, que por sua vez agem, junto à
+indústria nacional, como indutores de inovação. Estas ações, apoiadas
+pelo setor acadêmico, proporcionam a modernização e alavancagem da
+base industrial por mecanismos de absorção de tecnologia, repercutindo
+diretamente na capacitação e competitividade da indústria, estimulando-a
+a adquirir competências e tecnologias estratégicas, novas metodologias e
+processos de trabalho e induzindo-a a adotar normas de qualidade de padrão
+internacional.
+As ações e atividades de P&D espaciais visam ao atendimento dos seguintes
+objetivos específicos:
+1. Fomentar pesquisas destinadas ao desenvolvimento e à aplicação de
+tecnologias de caráter estratégico para os sistemas espaciais de interesse
+nacional.
+2. Estabelecer parcerias com universidades brasileiras para desenvolver
+tecnologias, produtos e processos inovadores necessários à concretização
+das missões previstas no PNAE, sobretudo as que incluem o
+desenvolvimento de satélites tecnológicos e qualificação de novas
+tecnologias de lançadores nacionais.
+3. Fomentar pesquisas em Ciências Espaciais e Atmosféricas, de modo
+particular nas áreas de Aeronomia, Astrofísica, Geofísica, Física de Plasma
+Espacial e Física Solar.
+4. Fomentar experimentos científicos e tecnológicos que explorem as
+características do ambiente orbital e suborbital, particularmente a
+Motor do Túnel de Vento
+do CTA
+58
+Programa Nacional de Atividades Espaciais (PNAE)
+microgravidade.
+5. Consolidar linhas de pesquisa sobre fenômenos e processos de impacto
+global definidos como de particular interesse para o país.
+6. Desenvolver projetos de pesquisa em áreas correlatas à espacial, tais
+como física de materiais, plasma e matemática aplicada e computacional,
+que possam diretamente contribuir para o avanço da ciência e da
+tecnologia espaciais.
+Ações
+Tecnologias Estratégicas
+O Programa Nacional de Atividades Espaciais – PNAE – identifica como
+indispensável a ampliação do conhecimento em tecnologias estratégicas e
+sua transferência para o setor industrial, para garantir a este setor capacitação
+adequada e melhor competitividade, ao responder às demandas do mercado
+internacional.
+São prioritárias, na área de plataformas espaciais, as tecnologias necessárias
+ao desempenho e requisitos exigidos, as quais incluem o controle de atitude,
+sensores e atuadores espaciais, além de nanotecnologias, que permitirão
+reduções drásticas de massa e consumo dos equipamentos de satélite.
+Pelo seu caráter crítico, considera-se urgente a necessidade de aquisição das
+tecnologias referentes a cargas úteis. No seu âmbito, incluem-se os imageadores
+ópticos de alta resolução e radar de abertura sintética.
+Na área de veículos espaciais, é indispensável, também, a aquisição das
+tecnologias de guiagem e controle, de sistemas inerciais, de materiais e
+processos, de sistemas computacionais e de propulsão líquida.
+Ciências Espaciais e Atmosféricas
+As atividades do PNAE em Ciências Espaciais e Atmosféricas referem-se a
+pesquisas básicas e aplicadas que se relacionam com os fenômenos que
+59
+ocorrem na atmosfera e no espaço exterior, e que concentram seus estudos,
+principalmente, nas áreas de Aeronomia, Astrofísica e Geofísica Espacial.
+O PNAE prevê, também, para suporte às pesquisas mencionadas, que sejam
+efetuadas as seguintes atividades: desenvolvimento, construção, qualificação
+e lançamento de cargas úteis científicas a bordo de balões estratosféricos,
+de foguetes de sondagem atmosférica e de satélites; desenvolvimento de
+instrumentação especializada; e estabelecimento e manutenção de laboratórios,
+observatórios e outras instalações de apoio.
+Para que essas atividades sejam desenvolvidas, considera-se essencial a
+continuidade da importante contribuição do Centro Regional Sul de Pesquisas
+Espaciais, com sede em Santa Maria (RS), do Instituto Nacional de Pesquisas
+Espaciais – INPE, cujos objetivos incluem atuar nas áreas de aeronomia, geofísica
+espacial e radioastronomia, além de possibilitar a ampliação da cooperação
+espacial com os países do Cone Sul.
+Mudanças Globais
+O PNAE estabelece esta linha de ação com a finalidade de apoiar, em âmbito
+nacional, aqueles projetos de pesquisa cujos temas se relacionem com
+mudanças globais que se baseiem na utilização de meios, técnicas ou produtos
+espaciais. Neste caso, as ações sempre obedecem à orientação de atuar em
+consonância com as prioridades estabelecidas pelo Inter-American Institute
+for Global Change Research - IAI, sediado no Brasil.
+Microgravidade
+A utilização do ambiente de microgravidade é considerada promissora para
+experimentos em uma gama de áreas de atuação bastante ampla, que
+abrangem as ciências biológicas e pesquisa de materiais.
+Com esta linha de ação objetiva-se fomentar e, também, coordenar, no País,
+projetos de pesquisa e de desenvolvimento, de interesse científico, tecnológico
+60
+Programa Nacional de Atividades Espaciais (PNAE)
+ou comercial, baseados na realização de experimentos em ambiente de
+microgravidade, como o proporcionado por lançamentos suborbitais, vôos
+tripulados e, particularmente, pela Estação Espacial Internacional - EEI.
+Geoposicionamento
+As aplicações de navegação por satélites tendem a se multiplicar e crescer em
+sofisticação num futuro próximo, à medida que se projeta a queda continuada
+de preço dos receptores e que sistemas internacionais novos aumentem,
+significativamente, a precisão e a garantia de disponibilidade para usos civis.
+Tais aplicações se estendem a áreas diversas como agricultura e prospecção
+geológica, mas o setor de transportes é certamente um beneficiário potencial.
+Uma tecnologia dessa ordem, cada vez mais, irá possibilitar a otimização de
+sistemas como transportes públicos, movimentação de cargas e navegação
+aérea em todas as fases de vôo. Em particular, no Brasil, o controle do tráfego
+aéreo já se atualiza para, em futuro próximo, se beneficiar dos sistemas
+de Communication, Navigation, Surveillance, and Air Traffic Management
+- CNS/ATM, cujos recursos integram satélites de comunicações, navegação e
+posicionamento, destinados a propiciar um gerenciamento muito mais eficiente,
+eficaz e seguro do tráfego aéreo e das infra-estruturas aeroportuárias.
+Considerando os desdobramentos estratégicos desses sistemas para o País,
+têm-se buscado firmar, perante fóruns internacionais apropriados, o interesse
+nacional em contribuir ativamente não apenas para a consecução de tais
+iniciativas, mas, também, para sua concepção e implementação.
+Programa Uniespaço
+O Programa Uniespaço objetiva a formação e a consolidação de núcleos
+especializados, situados em universidades e instituições congêneres, capazes de
+realizar estudos, pesquisas e desenvolvimento de interesse do setor espacial.
+O Uniespaço deve ser permanentemente incentivado e ampliado, de modo a se
+tornar um instrumento de cooperação mútua, em face do benéfico intercâmbio
+entre órgãos do SINDAE e a área acadêmica, contribuindo para as atividades
+espaciais brasileiras, com o desenvolvimento de tecnologias estratégicas cuja
+aquisição o próprio Programa prevê.
+
+62
+Programa Nacional de Atividades Espaciais (PNAE)
+Recursos Humanos
+Fundamentação
+Uma das grandes conquistas do PNAE, em mais de quatro décadas de história,
+foi a formação de uma comunidade de pesquisadores e técnicos com excelência
+internacionalmente reconhecida.
+O capital humano na área espacial conta atualmente com aproximadamente
+3.100 especialistas, atuando no governo e na indústria, conforme mostra a
+tabela abaixo. Ressalte-se que esta quantidade se mostra insuficiente para
+cobrir as necessidades atuais e futuras do Programa.
+Recursos Humanos PNAE
+2005
+AEB 84
+INPE 1.145
+DEPED 1.035
+Indústria 873
+Do ponto de vista das competências e especialidades, todas as áreas e disciplinas
+necessárias ao desenvolvimento de atividades espaciais, como gerenciamento,
+engenharia de sistemas, subsistemas, garantia da qualidade, integração e
+testes, estão contempladas, tanto nos órgãos governamentais, quanto no
+setor privado.
+Se, de modo amplo, é possível afirmar que haja especialistas competentes
+em quase toda a cadeia de conhecimento científico e tecnológico do setor
+espacial, existe, em âmbito restrito, contudo, carência de profissionais e técnicos
+capacitados nas seguintes áreas:
+• materiais e processos • radares de abertura sintética - SAR
+• controle de atitude e órbita • nanotecnologias
+• sensores e atuadores espaciais • propulsão líquida
+• imageadores ópticos de alta resolução
+Preparação do SCD-1 para
+testes vácuo-térmicos
+64
+Programa Nacional de Atividades Espaciais (PNAE)
+Diretrizes
+Em vista do quadro apresentado anteriormente, pode-se afirmar que o sucesso
+do Programa depende não só da disponibilidade de recursos materiais, mas
+também da recomposição, em patamares compatíveis com as missões e
+demais projetos previstos no programa, dos quadros de Recursos Humanos
+das instituições responsáveis pela sua implementação.
+Para tanto, serão adotadas as seguintes estratégias:
+1. Realizar o levantamento detalhado, em termos quantitativos e
+qualitativos, dos recursos humanos necessários ao desenvolvimento
+das missões e demais projetos previstos no PNAE 2005-2014, e criar
+mecanismos para a sua contratação.
+2. Investir, em parceria com o Conselho Nacional de Desenvolvimento
+Científico e Tecnológico – CNPq – e a Coordenação de Aperfeiçoamento
+de Pessoal de Nível Superior – CAPES, na formação de mestres e
+Integração do satélite
+Brasilsat - B1 no LIT
+65
+doutores, incrementando o número de bolsas para o setor espacial nos
+programas nacionais de pós-graduação.
+3. Investir na formação e capacitação de talentos, por meio de cursos
+profissionalizantes e estágios em instituições e empresas de relevância
+no país e no exterior.
+4. Dar continuidade e ampliar os recursos necessários à viabilização
+dos programas Uniespaço e Microgravidade, para transformá-los em
+instrumentos efetivos de participação das universidades brasileiras no
+PNAE.
+5. Privilegiar, em todas as estratégias anteriormente elencadas, o
+desenvolvimento de itens tecnológicos naquelas áreas identificadas
+acima, onde há carência de competências no Programa.
+6. Investir na formação dos futuros talentos da área espacial, mediante
+ações de capacitação de professores e de divulgação científica voltadas
+para as instituições de Ensino Superior, Médio e Fundamental.
+66
+Programa Nacional de Atividades Espaciais (PNAE)
+Política Industrial
+Fundamentação
+Desde o início da Missão Espacial Completa Brasileira – MECB, a indústria brasileira
+tem, de modo relativamente estável, colaborado, numa proporção que oscila
+entre 10% e 20%, com o Programa Nacional de Atividades Espaciais – PNAE.
+Formada essencialmente por pequenas e médias empresas, a base industrial
+constitui um suporte de razoável expressão para as atividades espaciais, uma
+vez que está encarregada de fornecer componentes, sistemas e subsistemas de
+satélites e lançadores do PNAE, o qual, em face de necessidades estratégicas,
+expressa, de modo claro, sua prioridade em proteger e fortalecer esse
+segmento.
+Quando se considera que os produtos espaciais são de alto valor agregado e
+requerem investimentos consideráveis, é admissível reconhecer que se mantenha
+uma dependência estreita entre esta base industrial, pelo menos na fase de sua
+consolidação, e o seu cliente praticamente exclusivo, que é o Governo brasileiro.
+Esta situação provoca, por força das dificuldades orçamentárias que todos os
+setores governamentais vêm experimentando ao longo dos últimos anos, uma
+descontinuidade no fluxo de encomendas, contratos e licitações que tem sido
+danosa para o desempenho financeiro e para a atualização tecnológica das
+indústrias partícipes das atividades espaciais.
+O PNAE, levando em conta o anteriormente exposto, aponta a necessidade
+de se adotar estratégias para o fortalecimento da indústria espacial e ainda
+acrescenta as seguintes considerações:
+1. Algumas tecnologias necessárias ao desenvolvimento de certos
+componentes e subsistemas para as missões e demais projetos do
+PNAE não são dominados no país, além de haver restrições para sua
+transferência.
+Câmara Vácuo-Térmica
+do LIT/INPE
+68
+Programa Nacional de Atividades Espaciais (PNAE)
+2. Os produtos espaciais fornecidos pelo setor industrial são certificados
+pelos próprios órgãos setoriais do SINDAE, durante o seu processo de
+aquisição.
+3. Alguns projetos, embora passíveis de serem transferidos para a indústria,
+continuam sendo desenvolvidos no ambiente dos institutos de pesquisa,
+resultando numa baixa utilização da capacidade instalada e dos recursos
+humanos qualificados da indústria no desenvolvimento das missões e
+demais projetos do PNAE.
+4. A indústria não utiliza sua flexibilidade de contratação para atrair
+especialistas – sobretudo os recém-formados – de modo a propiciar o
+surgimento de inovações no ambiente das empresas.
+5. A incipiente circulação de conhecimentos e o quase inexistente
+intercâmbio de especialistas entre universidades, institutos de pesquisa
+e indústria.
+Diretrizes
+Em vista do quadro apresentado, algumas diretrizes a implementar no período
+2005-2014 serão as detalhadas a seguir, como contribuição para o incremento
+da participação industrial no PNAE:
+1. Contratar, primordialmente na indústria nacional, sistemas e subsistemas
+completos de satélites e lançadores.
+2. Contemplar, no conjunto de missões e demais projetos previstos no PNAE,
+os aspectos de aplicação, capacitação e participação industrial, ouvindo-se
+todos os setores envolvidos.
+Integração do satélite
+SCD-1 no LIT
+69
+3. Considerar, antes da decisão por novos investimentos em instalações, a
+utilização da infra-estrutura espacial pertencente ao setor industrial.
+4. Realizar gestões, junto aos órgãos competentes de CT&I, tendo em vista
+a utilização de programas tais como o Programa Inovação Tecnológica
+em Pequenas Empresas – PIPE, o Programa de Apoio à Pesquisa em
+Empresas – PAPPE – e o Programa de Recursos Humanos para Atividades
+Estratégicas – RHAE, na capacitação da indústria espacial brasileira em
+tecnologias consideradas estratégicas para o PNAE.
+5. Realizar levantamentos periódicos das tecnologias passíveis de
+transferência, dos institutos de pesquisa do SINDAE para a indústria
+espacial brasileira. Definir e implementar mecanismos para viabilizar
+essa transferência.
+6. Utilizar, sempre que possível, a flexibilidade das regras de contratação da
+indústria para viabilizar a fixação de especialistas recém-formados na área
+espacial e propiciar o surgimento de inovações no ambiente industrial.
+7. Investir em programas de melhoria da qualidade, normalização e
+certificação de produtos espaciais.
+8. Utilizar os mecanismos previstos na Lei de Inovação para promover a
+circulação de especialistas e de conhecimentos no âmbito das instituições
+do SINDAE.
+9. Realizar, periodicamente, estudos e pesquisas para definir estratégias e
+mecanismos de atualização tecnológica da indústria.
+70
+Programa Nacional de Atividades Espaciais (PNAE)
+Temas Transversais
+Fundamentação
+Sob a denominação Temas Transversais, reúnem-se as atividades ou projetos
+que perpassam, total ou, ao menos, parcialmente, o conjunto de missões
+e ações do PNAE, e vão ao encontro dos objetivos da Política Nacional de
+Desenvolvimento das Atividades Espaciais – PNDAE.
+Enquadram-se, nesta categoria, atividades de Normalização, Certificação,
+Licenciamento e Autorizações e as de Divulgação e Educação realizadas no
+âmbito do Programa.
+Ações
+Normalização e Certificação
+Com o fato de muitos projetos espaciais serem desenvolvidos por meio de
+mecanismos de cooperação internacional, observa-se, hoje, uma crescente
+inclinação de se adotar normas técnicas comuns, como as estabelecidas pela
+International Organization for Standardization - ISO.
+À luz dessa mesma tendência, o Sistema Nacional de Avaliação da Conformidade
+na Área Espacial – SINACESPAÇO - objetiva promover a qualidade e a segurança
+das atividades espaciais no Brasil, proporcionando mecanismos de certificação
+voluntária ou obrigatória mediante a avaliação de conformidade com normas
+e regulamentos técnicos.
+No tocante a normas para o setor espacial, foi criado o Programa de Apoio às
+Atividades de Normalização e à Qualidade na Área Espacial – QUALIESPAÇO,
+cujo objetivo é a elaboração de documentos normativos e a sua utilização,
+com vistas, primordialmente, à qualidade, à segurança e à confiabilidade dos
+produtos (bens e serviços) relacionados com as atividades espaciais.
+Modelo do VLS em ensaio
+em túnel aerodinâmico
+72
+Programa Nacional de Atividades Espaciais (PNAE)
+Entre as ações previstas pela AEB, neste
+sentido, estão:
+1. Estabelecer normas de segurança
+aplicáveis a veículos lançadores
+e operações de lançament o
+comerciais, bem como fiscalizar a
+aplicação das mesmas.
+2. Implantar e operacionalizar núcleos
+de acesso e divulgação de normas
+técnicas.
+3. Dinamizar as ações do Comitê
+CB-08, da Associação Brasileira de
+Normas Técnicas - ABNT, no que
+se refere à normalização na área
+espacial.
+4. Estimular a participação brasileira no processo de elaboração de
+normas no contexto da ISO.
+5. Buscar a certificação para os integrantes do SINDAE.
+6. Fomentar a participação dos atores do SINDAE no SINACESPAÇO e no
+Programa QUALIESPAÇO.
+Divulgação e Educação
+A atividade espacial é geradora de conhecimento e informação que devem ser
+compartilhadas com diversos segmentos sociais.
+As iniciativas de Divulgação e Educação têm por objetivo disseminar
+conhecimento sobre a atividade espacial e sensibilizar a sociedade quanto
+à importância e aos benefícios da atividade espacial, para estimular o
+desenvolvimento de pesquisas espaciais e formar as futuras gerações.
+Foguete Sonda IV
+73
+Dentro desta perspectiva, encontram-se o Programa AEB Escola, o Ciclo de
+Palestras Quintas Espaciais, as exposições temáticas do Programa Espacial e,
+futuramente, cursos de caráter técnico em parceria com universidades.
+Todas estas atividades colocam o grande público em contato direto com o
+dia-a-dia da ciência e tecnologias espaciais, além de divulgar as conquistas
+do país nestas áreas.
+74
+Programa Nacional de Atividades Espaciais (PNAE)
+Execução
+Fundamentação e Diretrizes
+O Programa Nacional de Atividades Espaciais - PNAE é um programa de caráter
+multissetorial, e sua execução obedece à Política Nacional de Desenvolvimento
+das Atividades Espaciais - PNDAE, que estabelece as diretrizes e as ações
+decorrentes. Esta execução ocorrerá de forma descentralizada no âmbito do
+Sistema Nacional de Desenvolvimento das Atividades Espaciais - SINDAE.
+Como órgão central do SINDAE, a AEB é responsável por coordenar a
+formulação de propostas de revisão da PNDAE e de atualização do PNAE,
+bem como executar, fazer executar e acompanhar as ações do Programa.
+Como principais órgãos setoriais do SINDAE, o Instituto Nacional de Pesquisas
+Espaciais - INPE, do MCT, e o Departamento de Pesquisas e Desenvolvimento
+- DEPED, do Comando da Aeronáutica – COMAer, do Ministério da Defesa, são
+os responsáveis pela execução dos principais projetos e atividades estratégicos
+do PNAE.
+O DEPED é o executante dos projetos de veículos lançadores, sendo responsável
+pela implantação e atividades de operação e manutenção da infra-estrutura
+associada. Além disso, coordena e executa atividades de pesquisa e
+desenvolvimento de interesse para os sistemas de transporte espacial e temas
+correlatos.
+O INPE é o executante dos projetos de satélites e cargas úteis e de suas
+aplicações, bem como da implantação e das atividades de manutenção e
+operação da infra-estrutura associada ao desenvolvimento, integração, testes,
+rastreio e controle de satélites, e da recepção, processamento e disseminação
+de dados de satélites. Cabe ainda ao INPE a coordenação e execução das
+atividades de pesquisa e desenvolvimento nos campos das ciências e das
+aplicações espaciais, como também no das tecnologias de satélites, cargas
+úteis e domínios correlatos.
+76
+Programa Nacional de Atividades Espaciais (PNAE)
+Compete, também, à AEB coordenar e implantar o novo Centro Espacial
+de Alcântara - CEA, oriundo de nova concepção de modelo de centro de
+lançamento a ser buscado, que inclui sua comercialização, utilizando parte
+da área já desapropriada pelo Decreto n. 7.820, de 12 de setembro de 1980,
+para a implantação do CLA.
+No novo horizonte decenal, as empresas nacionais e os núcleos universitários,
+que fazem, também, parte do elenco de participantes do SINDAE, deverão
+merecer maior esforço de ampliação de seu envolvimento na execução do
+programa espacial.
+Consoante com a PNDAE, a participação das indústrias e empresas nacionais
+na execução do PNAE deverá ser permanentemente buscada pela AEB, como
+órgão central, e pelos órgãos setoriais de execução do SINDAE, como forma
+de garantir a máxima realização dos benefícios potenciais associados com o
+domínio da tecnologia e com a utilização dos meios espaciais.
+Espera-se, também, que as universidades brasileiras não desempenhem apenas
+o papel fundamental na formação dos recursos humanos especializados
+requeridos pelo setor espacial, mas atuando, preferencialmente, sob a forma
+de redes cooperativas de pesquisa, venham a contribuir com a definição dos
+grandes rumos do Programa e a capacitar-se crescentemente para a execução de
+projetos do PNAE, em complementação aos dois principais órgãos de pesquisa
+e desenvolvimento setoriais.
+É conveniente que órgãos setoriais subordinados aos diversos ministérios e
+secretarias, nas diferentes esferas governamentais, venham a participar não
+apenas como usuários dos sistemas e da tecnologia espacial, mas, também,
+contribuindo para a execução e o financiamento das atividades previstas
+no PNAE. Em particular, a possibilidade de contrapartidas contratuais que
+contribuam para o desenvolvimento das atividades espaciais brasileiras,
+incluindo parcerias público-privadas – PPP, deverá ser sempre explorada quando
+da aquisição por órgãos públicos de sistemas e serviços de natureza espacial,
+ainda que para fins estritamente comerciais ou de prestação de serviços.
+77
+Nas ações de fomento à ciência, tecnologia e inovação para fortalecer o
+desenvolvimento tecnológico e a capacidade de aquisição de conhecimento
+para o setor espacial, recursos provirão do Fundo Espacial, criado pela Lei 9.994,
+de 24 de julho de 2000, bem como dos recursos de fomento e linhas de créditos
+regulares do CNPq, FINEP e fundações estaduais de apoio à pesquisa.
+Gestão do Programa
+A melhoria e o aperfeiçoamento da capacidade de gestão do programa
+espacial brasileiro constituirá em um dos principais desafios para o novo
+horizonte do PNAE.
+O Plano Plurianual de Investimentos – PPA, definido para o Programa Nacional
+de Atividades Espaciais, é o instrumento gerencial básico de gestão, em
+alinhamento com as orientações estratégicas do Governo e em conformidade
+com o Decreto nº 5.233, de 06 de outubro de 2004, que estabelece as normas
+para a gestão do PPA 2004-2007 e de seus programas.
+Os indicadores de acompanhamento do PNAE/PPA deverão ser revistos, assim
+como a correspondência entre as atuais ações do PPA e as missões definidas
+para o novo horizonte decenal do PNAE, e a programação dos recursos
+previstos como necessários para esse novo período.
+Ensaio de simulação em
+tempo real do sistema de
+controle do 1º estágio
+do VLS
+78
+Programa Nacional de Atividades Espaciais (PNAE)
+Orçamento
+Os valores previstos para o Programa no período decenal são apresentados
+na Tabela 1 e na Figura 1, enquanto sua distribuição em termos de atividades
+é apresentada pela Figura 2.
+Estas estimativas são otimistas e pressupõem um conjunto de ações paralelas
+de articulação na esfera governamental.
+É importante ressaltar que a viabilização do Programa exigirá a conclusão de
+parcerias nacionais, com potenciais usuários tais como ministérios, secretarias,
+e outras agências, que financiem parte dos projetos cujas aplicações são de
+seu interesse, e também parcerias internacionais, para compartilhamento dos
+altos custos e riscos de desenvolvimento.
+Além disso, a comercialização das atividades de lançamento no Centro Espacial
+de Alcântara deverá prover parte dos recursos necessários para pesquisa,
+desenvolvimento e manutenção das instalações do CEA.
+A parceria com agências de fomento é fundamental para alavancar a pesquisa
+e desenvolvimento e contribuir, juntamente com a AEB, para a criação de linhas
+de pesquisa e financiamento voltados à inovação, principalmente gerando
+projetos de cooperação entre empresas, universidades e centros de pesquisa
+voltados especificamente à área espacial.
+Tabela 1
+Programação dos Investimentos Necessários
+PNAE 2004-2014 (em milhões de Reais)
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 Totais
+Observação da Terra 159,4 159,6 132,5 81,2 91,6 100,9 92,8 56,0 61,6 56,0 991,6
+Missões Científicas 37,8 71,4 37,8 23,8 33,6 19,6 19,6 19,6 19,6 19,6 302,4
+Meteorologia 0,0 0,0 5,6 42,0 77,0 79,8 33,6 56,0 56,0 0,0 350,0
+Telecomunicações 0,0 70,0 70,0 140,0 210,0 140,0 70,0 70,0 70,0 0,0 840,0
+Acesso ao Espaço 42,5 68,0 168,2 150,6 152,4 157,4 148,2 123,8 118,8 123,8 1253,6
+Infra-Estrutura 149,9 243,2 297,7 322,1 94,6 90,4 91,3 84,2 69,3 65,5 1508,0
+Pesquisa & Desenvolvimento 18,7 18,7 18,7 18,7 18,7 18,7 18,7 18,7 18,7 18,7 186,9
+Recursos Humanos 2,8 2,8 2,8 2,8 2,8 2,8 2,8 2,8 2,8 2,8 28,0
+Capacitação da Indústria Nacional 2,8 2,8 2,8 2,8 2,8 2,8 2,8 2,8 2,8 2,8 28,0
+Gestão do Programa 5,6 5,6 5,6 5,6 5,6 5,6 5,6 5,6 5,6 5,6 56,0
+Totais 419,5 642,1 741,6 789,5 689,0 618,0 485,4 439,5 425,2 294,7 5544,5
+79
+Figura 2
+Distribuição dos Investimentos
+Figura 1
+Evolução dos Investimentos Previstos
+PNAE (2005-2014)
+Milhões de Reais por ano
+80
+Programa Nacional de Atividades Espaciais (PNAE)
+Cronograma
+O cronograma de execução das missões planejadas no PNAE é apresentado a
+seguir, dividido por objetivos de missão e lançadores.
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Observação da Terra
+CBERS-2B
+CBERS-3/4
+RADAR
+SSR-1
+Missões Científicas
+EQUARS
+MIRAX
+Satélites Científicos
+Meteorologia
+GPM
+Carga útil GEO
+Telecomunicações
+GEO1
+GEO2
+Acesso ao Espaço
+VLS
+VLS-Upgrade
+VLS-2
+Comercial VLS-1 VLS-1
+Upgrade
+VLS-2 Aprovadas em andamento
+
+82
+Programa Nacional de Atividades Espaciais (PNAE)
+83
+Anexo I
+Marco Legal das Atividades Espaciais
+A Era Espacial inaugurou-se em 4 de outubro de 1957 com o lançamento,
+pelos Russos, do Sputnik I.
+O marco legal, em termos de Direito Espacial Internacional, é o “Tratado do
+Espaço” [Tratado sobre Princípios Reguladores das Atividades dos Estados na
+Exploração e Uso do Espaço Cósmico, inclusive a Lua e demais Corpos Celestes,
+Resolução da Assembléia Geral das Nações Unidas nº 2222 (XXI)], em vigor
+desde 1967. Nele encontram-se as diretrizes básicas que, depois, vieram a ser
+complementadas por outros tratados e convenções, tais como:
+• O Acordo sobre Salvamento de Astronautas e Restituição de Astronautas
+e Objetos lançados ao Espaço Cósmico, Resolução da Assembléia Geral
+das Nações Unidas n. 2345 (XXII), de 19 de dezembro de 1967, em
+vigor desde 3 de dezembro de 1968;
+• A “Convenção de Responsabilidade” [Convenção sobre a responsabilidade
+internacional por danos causados por objetos espaciais], Resolução da
+Assembléia Geral das Nações Unidas nº 2777 (XXVI), em vigor desde
+1º de setembro de 1972;
+• A “Convenção de Registro” [Convenção sobre o Registro de objetos
+lançados ao espaço cósmico] que decorre da Resolução da Assembléia
+Geral das Nações Unidas nº 3235 (XXIX), em vigor desde 15 de setembro
+de 1976;
+• “Acordo da Lua” [Acordo sobre as atividades dos Estados na Lua e nos
+corpos celestes], Resolução da Assembléia Geral das Nações Unidas nº
+34, de 1968, aberto à assinatura em 18 de dezembro de 1979, em vigor
+desde 11 de julho de 1984.
+84
+Programa Nacional de Atividades Espaciais (PNAE)
+Até o momento, o Brasil assinou e ratificou:
+I. O Tratado do Espaço [Decreto Legislativo nº 41/1968, Promulgado pelo
+Decreto nº 64.362, de 17 de abril de 1969];
+II. O Acordo sobre Salvamento de Astronautas [Decreto Legislativo nº
+80/1972, Promulgado pelo Decreto nº 71.989, de 26 de março de
+1973] e,
+III. A Convenção de Responsabilidade [Decreto Legislativo nº 77/1972,
+Promulgado pelo Decreto nº 71.981, de 23 de março de 1973].
+Ainda sob a apreciação do Congresso Nacional, encontra-se a Convenção de
+Registro da qual o Brasil é signatário.
+Atividades Espaciais no Brasil
+As atividades espaciais no Brasil iniciaram-se com a edição do Decreto
+Presidencial nº 51.133, de 3 de agosto de 1961, quando foi criado o Grupo
+de Organização da Comissão Nacional de Atividades Espaciais - GOCNAE.
+Posteriormente chamada simplesmente de CNAE, subordinada ao, então,
+Conselho Nacional de Pesquisas – CNPq, que exercia suas atividades no Centro
+Técnico da Aeronáutica - CTA.
+A Comissão Brasileira de Atividades Espaciais – COBAE – foi criada pelo Decreto
+Presidencial nº 68.099, de 20 de janeiro de 1971.
+O Grupo de Organização da Comissão Nacional de Atividades Espaciais – GOCNAE
+– foi extinto e o Instituto de Pesquisas Espaciais –INPE, como “principal órgão
+de execução para o desenvolvimento das pesquisas espaciais, no âmbito civil, de
+acordo com orientação da Comissão Brasileira de Atividades Espaciais – COBAE",
+foi criado pelo Decreto Presidencial n. 68.532, de 22 de abril de 1971.
+No âmbito da Aeronáutica, o Centro de Lançamento da Barreira do Inferno
+- CLBI foi inaugurado pelo Ministério da Aeronáutica, em 1965, em Natal
+(RN), dedicado à prestação de serviços de rastreio e lançamento de foguetes
+de sondagem nacionais e estrangeiros.
+Em 1966 foi criado o Grupo Executivo de Trabalhos e Estudos de Projetos
+85
+Espaciais – GETEPE, que em 1969 originou o Instituto de Atividades Espaciais
+– IAE. Parte do Centro Técnico Aeroespacial – CTA, em 1991 o IAE passou a
+chamar-se Instituto de Aeronáutica e Espaço.
+As iniciativas nacionais no setor espacial ganharam novo impulso a partir de
+1979 com a Missão Espacial Completa Brasileira – MECB. Primeiro programa
+espacial brasileiro com características efetivas de grande porte e longo prazo,
+a MECB estabeleceu como metas o desenvolvimento de pequenos satélites
+de aplicações (coleta de dados ambientais e sensoriamento remoto) e de um
+veículo lançador compatível com os portes e missões daqueles satélites, bem
+como a implantação de infra-estrutura básica requerida por estes projetos.
+Motivada pela MECB, a implantação do Centro de Lançamento de Alcântara
+– CLA, no Município de Alcântara (MA), iniciou-se a partir de 1983 com a
+elaboração do projeto de utilização das áreas de segurança e de apoio do
+Centro, que previa a desocupação de cerca de 234 Km², de um total de 620
+Km², que foram desapropriados pelo Decreto nº 7.820. de 12 de setembro de
+1980, do Governo do Maranhão, e complementado pelo Decreto Presidencial
+s. nº, de 8 de agosto de 1991.
+Em 1987, o G-7 (sete países mais industrializados) concebe o Missile Technology
+Control Regime – MTCR, regime que se caracteriza por um acordo contra a
+proliferação de tecnologia de mísseis.
+O Brasil, em fevereiro de 1994, manifestou a sua disposição de submeter-se às
+diretrizes do Regime, para tanto, reformulou a legislação interna de controle
+de exportação de bens sensíveis e de uso duplo em 1995.
+É nesse contexto que, em 10 de fevereiro de 1994, cria-se a Agência Espacial
+Brasileira – AEB.
+Marco Legal da AEB
+O marco normativo que criou a Agência Espacial Brasileira está configurado nos
+termos da Lei nº 8.854, de 10 de fevereiro de 1994, que em seu art. 1º dispõe:
+“Fica criada, com natureza civil, a Agência Espacial Brasileira - AEB, autarquia
+86
+Programa Nacional de Atividades Espaciais (PNAE)
+federal vinculada à Presidência da República, com a finalidade de promover o
+desenvolvimento das atividades espaciais de interesse nacional”.
+A AEB é a entidade sucessora da COBAE, consoante determina o art. 11, da
+Lei nº 8.854, de 1994, “Art. 11. A AEB sucederá a COBAE nos seus direitos
+e nas suas obrigações decorrentes de acordos e instrumentos nacionais e
+internacionais de cooperação”.
+O Decreto nº 1.332, de 8 de dezembro de 1994, aprova a atualização da
+Política Nacional de Desenvolvimento das Atividades Espaciais – PNDAE, que
+estabelece “os objetivos e as diretrizes que deverão nortear as ações do Governo
+brasileiro voltadas à promoção do desenvolvimento das atividades espaciais
+de interesse nacional”.
+O Decreto nº 1.953, de 10 de julho de 1996, institui o Sistema Nacional de
+Desenvolvimento das Atividades Espaciais – SINDAE, com a “finalidade de
+organizar a execução das atividades destinadas ao desenvolvimento espacial
+de interesse nacional”.
+Fazem parte do SINDAE, como órgãos executores, o Instituto Nacional de
+Pesquisas Espaciais – INPE, do Ministério da Ciência e Tecnologia – MCT, o
+Departamento de Pesquisas e Desenvolvimento – DEPED, subordinado ao
+Comando da Aeronáutica, do Ministério da Defesa. Também integram o SINDAE
+o setor industrial e o setor acadêmico.
+O Decreto nº 4.566, de 10 de janeiro de 2003, vincula a AEB ao Ministério
+da Ciência e Tecnologia – MCT, desvinculando-a da Presidência da República.
+A AEB tem a obrigação legal (item III, do art. 3º, da Lei nº 8.854, de 1994) de
+elaborar e atualizar o Programa Nacional de Atividades Espaciais – PNAE, que
+cobre períodos decenais sujeito a revisões, onde estão especificadas as linhas
+mestras para execução das ações e a visão estratégica do Programa.
+Atualmente, a Estrutura Regimental e o Quadro Demonstrativo dos Cargos
+em Comissão e das Funções Gratificadas da AEB estão definidos no Decreto
+nº 4.718, de 4 de junho de 2003. Em seu art. 2º encontra-se estipulada a
+87
+Estrutura Organizacional da AEB:
+“A AEB tem a seguinte estrutura organizacional:
+I. Órgãos de deliberação superior:
+a. Presidência e
+b. Conselho Superior;
+II. Órgãos de assistência direta e imediata ao Presidente:
+a. Gabinete;
+b. Procuradoria Federal e
+c. Assessoria de Cooperação Internacional;
+III. Órgãos seccionais:
+a. Auditoria Interna e
+b. Diretoria de Planejamento, Orçamento e Administração;
+IV. Órgãos específicos singulares:
+a. Diretoria de Política Espacial e Investimentos Estratégicos;
+b. Diretoria de Satélites, Aplicações e Desenvolvimento e
+c. Diretoria de Transporte Espacial e Licenciamento.”
+Cabe destacar, pela relevância estratégica na definição das políticas para área
+espacial que devem ser submetidas à aprovação do MCT, a composição do
+Conselho Superior da AEB que conta, além da presença do Presidente da AEB,
+que o preside, com as participações dos Ministérios: da Ciência e Tecnologia;
+da Agricultura, Pecuária e Abastecimento; das Comunicações; da Defesa; do
+Desenvolvimento, Indústria e Comércio Exterior; da Educação; da Fazenda; do
+Meio Ambiente; de Minas e Energia; do Planejamento, Orçamento e Gestão;
+e das Relações Exteriores.
+Compõem-no, também, representantes: do Gabinete de Segurança Institucional
+da Presidência da República; dos Comandos da Aeronáutica, do Exército e da
+Marinha, do Ministério da Defesa; do Conselho Nacional de Desenvolvimento
+Científico e Tecnológico; e da Financiadora de Estudos e Projetos.
+Completam sua composição um representante da Comunidade Científica e
+um representante do Setor Industrial. Impõe-se destacar que o Regulamento
+sobre sua competência e funcionamento foi aprovado conforme termos da
+Resolução nº 1, de 2004, de 25 de novembro de 1994.
+Todos os instrumentos legais aqui citados estão disponíveis no sítio da AEB,
+http://www.aeb.gov.br/ sob o título Legislação.
+Programa Nacional de Atividades Espaciais (PNAE)
+89
+Anexo II
+Lei nº 8.854, de 10 de fevereiro de 1994
+O Presidente da República
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:
+Art. 1º Fica criada, com natureza civil, a Agência Espacial Brasileira - AEB,
+autarquia federal vinculada à Presidência da República, com a finalidade de
+promover o desenvolvimento das atividades espaciais de interesse nacional.
+Parágrafo único. A AEB responde, de modo direto, ao Presidente da
+República.
+Art. 2º A AEB, dotada de autonomia administrativa e financeira, com patrimônio
+e quadro de pessoal próprios, tem sede e foro no Distrito Federal.
+Art. 3º À AEB compete:
+I. Executar e fazer executar a Política Nacional de Desenvolvimento das
+Atividades Espaciais - PNDAE, bem como propor as diretrizes e a
+implementação das ações dela decorrentes;
+II. Propor a atualização da Política Nacional de Desenvolvimento das
+Atividades Espaciais e as diretrizes para a sua consecução;
+III. Elaborar e atualizar os Programas Nacionais de Atividades Espaciais
+- PNAE e as respectivas propostas orçamentárias;
+IV. Promover o relacionamento com instituições congêneres no País e no
+exterior;
+V. Analisar propostas e firmar acordos e convênios internacionais, em
+articulação com o Ministério das Relações Exteriores e o Ministério da
+Ciência e Tecnologia, objetivando a cooperação no campo das atividades
+espaciais, e acompanhar a sua execução;
+VI. Emitir pareceres relativos a questões ligadas às atividades espaciais que
+90
+Programa Nacional de Atividades Espaciais (PNAE)
+sejam objeto de análise e discussão nos foros internacionais e neles fazerse
+representar, em articulação com o Ministério das Relações Exteriores
+e o Ministério da Ciência e Tecnologia;
+VII. Incentivar a participação de universidades e outras instituições de
+ensino, pesquisa e desenvolvimento nas atividades de interesse da área
+espacial;
+VIII.Estimular a participação da iniciativa privada nas atividades espaciais;
+IX. Estimular a pesquisa científica e o desenvolvimento tecnológico nas
+atividades de interesse da área espacial;
+X. Estimular o acesso das entidades nacionais aos conhecimentos
+obtidos no desenvolvimento das atividades espaciais, visando ao seu
+aprimoramento tecnológico;
+XI. Articular a utilização conjunta de instalações técnicas espaciais, visando
+à integração dos meios disponíveis e à racionalização de recursos;
+XII. Identificar as possibilidades comerciais de utilização das tecnologias
+e aplicações espaciais, visando a estimular iniciativas empresariais na
+prestação de serviços e produção de bens;
+XIII.Estabelecer normas e expedir licenças e autorizações relativas às
+atividades espaciais;
+XIV. Aplicar as normas de qualidade e produtividade nas atividades
+espaciais.
+Parágrafo único. Na execução de suas atividades, pode a AEB atuar direta ou
+indiretamente mediante contratos, convênios e ajustes no País e no exterior,
+observado o disposto no inciso V deste artigo e a competência da Procuradoria-
+Geral da Fazenda Nacional.
+Art. 4º As atividades espaciais brasileiras serão organizadas sob forma
+sistêmica, estabelecida pelo Poder Executivo.
+Parágrafo único. A AEB terá, no sistema de que trata este artigo, a condição
+de órgão central.
+91
+Art. 5º A AEB tem a seguinte estrutura básica: (Vide Medida Provisória nº
+2216-37, de 2001)
+I. Presidência;
+II. Conselho Superior;
+III. Diretoria-Geral;
+IV. Departamento de Administração;
+V. Departamento de Planejamento e Coordenação;
+VI. Departamento de Programas Espaciais;
+VII. Departamento de Desenvolvimento Técnico-Científico;
+VIII. Departamento de Cooperação Espacial.
+Art. 6º O Conselho Superior, órgão de caráter deliberativo, tem a seguinte
+composição:
+I. O Presidente da AEB e o Diretor-Geral, como membros permanentes;
+II. Representantes dos Ministérios e das Secretarias da Presidência da
+República, com atividades ligadas à área espacial;
+III. Um representante da comunidade científica e um do setor industrial,
+envolvidos com a área espacial, cujos mandatos terão a duração de dois
+anos.
+§ 1º Os Membros do Conselho Superior referidos no inciso II, no mínimo de
+dez e no máximo de dezoito, são designados pelo Presidente da República.
+§ 2º O Conselho Superior será presidido pelo Presidente da AEB, e, nos seus
+impedimentos, pelo Diretor-Geral.
+§ 3º O Presidente da AEB, ouvidos os Ministérios e Secretarias aos quais alude
+o inciso II, submeterá ao Presidente da República os nomes dos representantes
+indicados, para sua aprovação e designação.
+§ 4º O Conselho Superior aprovará o regulamento que disporá sobre sua
+92
+Programa Nacional de Atividades Espaciais (PNAE)
+competência e funcionamento.
+Art. 7º A AEB será administrada por um Presidente, um Diretor-Geral e cinco
+Chefes de Departamento, nomeados pelo Presidente da República e escolhidos
+dentre brasileiros de ilibada reputação moral e reconhecida capacidade técnica
+e administrativa.
+Art. 8º Fica o Poder Executivo autorizado a remanejar ou transferir para a
+Agência Espacial Brasileira os saldos orçamentários do Estado-Maior das Forças
+Armadas destinados à Comissão Brasileira de Atividades Espaciais - Cobae,
+observados os mesmos subprojetos, subatividades e grupos de despesa
+previstos na Lei nº 8.652, de 29 de abril de 1993.
+Art. 9º Constituem, ainda, receitas da AEB:
+I. As dotações orçamentárias consignadas na lei orçamentária da
+União;
+II. As rendas de qualquer espécie, produzidas por seus bens ou
+atividades;
+III. Os créditos especiais abertos por lei;
+IV. Outros recursos captados ou que lhe venham a ser destinados.
+Art. 10º O patrimônio da AEB será constituído pelos bens móveis e imóveis que
+venha a adquirir, inclusive doações e legados de pessoas naturais ou jurídicas.
+Parágrafo único. Fica o Poder Executivo autorizado a ceder para uso, à AEB,
+os imóveis da União que sejam necessários ao exercício e desenvolvimento de
+suas atividades.
+Art. 11º A AEB sucederá a Cobae nos seus direitos e nas suas obrigações
+decorrentes de acordos e instrumentos nacionais e internacionais de
+cooperação.
+Parágrafo único. A Procuradoria-Geral da Fazenda Nacional adotará as
+providências necessárias à celebração de aditivos, visando à formalização do
+disposto neste artigo.
+93
+Art. 12º Ficam criados, no Quadro da AEB, o cargo de natureza especial de
+Presidente da Agência, os cargos em comissão e funções de confiança, previstos
+no Anexo I desta Lei, respeitadas as dotações orçamentárias para este fim.
+Parágrafo único. Os ocupantes dos cargos de natureza especial e em comissão,
+objeto do Anexo I, serão de livre escolha da administração, observada a
+legislação em vigor.
+Art. 13º Ficam criados na AEB os cargos de provimento efetivo, constantes
+do Anexo II desta lei.
+§ 1º O provimento dos cargos de que trata este artigo exigirá prévia aprovação
+em concurso público, nos termos da legislação em vigor.
+§ 2º O Poder Executivo regulamentará as atribuições dos cargos criados por
+este artigo.
+Art. 14º Os valores de vencimento dos cargos efetivos da AEB são os indicados
+no Anexo II da Lei nº 8.622, de 19 de janeiro de 1993, observadas suas
+posteriores alterações, inclusive reajustes legais.
+Art. 15º Aos servidores da Administração Federal direta ou indireta colocados
+à disposição da AEB são assegurados a remuneração e os direitos do cargo
+efetivo ou emprego permanente, inclusive promoções.
+§ 1º O servidor nas condições definidas no caput continuará a contribuir para
+a instituição de previdência a que for filiado, sem interrupção na contagem do
+tempo de serviço no órgão ou entidade de origem, para todos os efeitos da
+legislação trabalhista e previdenciária, de leis especiais ou de normas internas.
+§ 2º O período em que o servidor permanecer prestando serviços à AEB será
+considerado, para todos os efeitos da vida funcional, como de efetivo exercício
+no cargo ou emprego que ocupe no órgão ou entidade de origem.
+Art. 16º Até que sejam regularmente providos os cargos efetivos da AEB, em
+um mínimo de sessenta por cento do seu total, a designação para as funções
+gratificadas - FG poderá recair em qualquer servidor federal ocupante de cargo
+efetivo ou emprego permanente.
+94
+Programa Nacional de Atividades Espaciais (PNAE)
+Art. 17º Os servidores da AEB perceberão a gratificação de atividade a que
+se refere a Lei Delegada nº 13, de 27 de agosto de 1992, no percentual de
+cento e sessenta por cento.
+Art. 18º O Poder Executivo, no prazo de cento e oitenta dias contados da
+publicação desta lei, disporá sobre a estrutura regimental da AEB.
+Art. 19º O Presidente da República decretará a extinção da Cobae, logo que
+implantada e em funcionamento a AEB.
+Parágrafo único. Até o advento da extinção prevista no caput, os dirigentes
+e servidores em exercício na Cobae devem continuar em suas atuais funções.
+Art. 20º Esta lei entra em vigor na data de sua publicação.
+Brasília, 10 de fevereiro de 1994; 173º da Independência e 106º da
+República.
+ITAMAR FRANCO
+Celso Luiz Nunes de Amorim
+Lélio Viana Lôbo
+José Israel Vargas
+Arnaldo Leite Pereira
+95
+Anexo III
+Decreto nº 1.332, de 8 de dezembro de 1994
+Aprova a atualização da Política de Desenvolvimento das Atividades Espaciais
+- PNDAE
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84,
+incisos IV e VI da Constituição, e tendo em vista o disposto no item II do artigo
+3º , da Lei nº 8.854, de 10 de fevereiro de 1994,
+Decreta:
+Art. 1º Fica aprovada a atualização da Política Nacional de Desenvolvimento
+das Atividades Espaciais - PNDAE, constante do Anexo I deste decreto.
+Art. 2º Este decreto entra em vigor na data de sua publicação.
+Brasília, 8 de dezembro de 1994;
+173º da Independência e 106º da República.
+ITAMAR FRANC0
+Mauro Motta Durante
+ANEXO I
+Política Nacional de Desenvolvimento das Atividades Espaciais
+I. Introdução
+A presente atualização da Política Nacional de Desenvolvimento das Atividades
+Espaciais - PNDAE, elaborada pela Agência Espacial Brasileira em cumprimento
+ao item II, do art. 3º, da Lei nº 8.854, de 10 de fevereiro de 1994, e aprovada
+pelo Presidente da República, estabelece os objetivos e as diretrizes que
+deverão nortear as ações do Governo brasileiro voltadas à promoção do
+desenvolvimento das atividades espaciais de interesse nacional.
+96
+Programa Nacional de Atividades Espaciais (PNAE)
+II. Conceituações
+1. Utiliza-se a expressão sistemas espaciais para indicar engenhos destinados
+a operar no espaço ou a viabilizar a operação no espaço de equipamentos
+destinados a permitir ao homem acesso a informações ou serviços. Desta forma,
+sistemas espaciais significarão genericamente: as estações espaciais; os satélites;
+as plataformas espaciais (ou busses); as cargas úteis, representadas pelos
+equipamentos de medidas, observações ou telecomunicações propriamente
+ditos; os foguetes e os veículos de transporte espacial.
+2. Refere-se à infra-estrutura espacial como ao conjunto de instalações,
+sistemas ou equipamentos de superfície, bem como serviços associados, que
+proporcionam o apoio necessário à efetiva operação e utilização dos sistemas
+espaciais. Incluem-se nesta categoria os centros de lançamento de foguetes,
+de veículos lançadores de satélites e de balões estratosféricos; os laboratórios
+especializados de fabricação, testes e integração; as estações e os centros de
+rastreio e controle, bem como os de recepção, tratamento e disseminação de
+dados de satélites etc.
+3. As atividades espaciais são entendidas como o esforço sistemático
+para desenvolver e operar sistemas espaciais, bem como a necessária e
+correspondente infra-estrutura, visando permitir ao homem ampliar seu
+conhecimento do universo, em particular do planeta Terra e sua atmosfera,
+bem como explorar, com objetivos utilitários, a disponibilidade desses novos
+dispositivos.
+4. As atividades espaciais de um país organizam-se usualmente em programas,
+compostos de subprogramas, projetos e atividades de caráter continuado. Ao
+conjunto desses programas costuma-se referir como o Programa Espacial do
+País. De forma análoga, o Programa Nacional de Atividades Espaciais - PNAE
+representará o conjunto das iniciativas proposto pela Agência Espacial Brasileira
+e aprovado pelo Presidente da República.
+III. Considerações Gerais
+As principais considerações que embasam a formulação desta política são
+97
+sintetizadas a seguir:
+• Tipicamente as atividades espaciais requerem elevados investimentos
+em projetos de longa duração mas de alto retorno esperado.
+• Ao longo das quatro décadas da recente história das atividades espaciais
+no mundo, muitos benefícios econômicos e sociais, decorrentes de forma
+direta ou indireta dessas atividades, puderam ser bem caracterizados.
+Esses benefícios resultam diretamente das aplicações de satélites
+artificiais na solução de problemas do cotidiano, especialmente no
+campo das telecomunicações, da previsão do tempo e do clima, do
+inventário e do monitoramento de recursos naturais, da navegação e da
+ciência. Os benefícios indiretos decorrem principalmente da utilização
+dos conhecimentos científicos e tecnológicos resultantes das atividades
+espaciais em inúmeros setores da atividade humana, desde a medicina
+à produção de bens e serviços bastante diversificados, com destaque
+para as áreas de microeletrônica, informática e novos materiais.
+• Os investimentos brasileiros no campo espacial, durante os últimos 30
+anos, permitiram ao País formar quadros competentes de especialistas,
+consolidar instituições nacionais de pesquisa e desenvolvimento,
+implantar importantes instalações de infra-estrutura e iniciar a formação
+de uma indústria espacial brasileira. Permitiram, ainda, a disseminação
+das técnicas de comunicações, navegação, sensoriamento remoto e
+meteorologia por satélites, de grande potencialidade no equacionamento
+de inúmeros problemas nacionais.
+• A Missão Espacial Completa Brasileira - MECB, iniciada em 1979,
+representou o primeiro grande programa nacional no âmbito do espaço
+e a adoção do modelo, consagrado mundialmente, de desenvolvimento
+através de compromissos ambiciosos e de longo prazo. A MECB logrou
+êxito, merecendo destaque, entre seus resultados, o lançamento com
+grande sucesso do primeiro satélite desenvolvido no Brasil, o SCD1; a
+implantação da infra-estrutura básica para as futuras missões espaciais
+brasileiras, incluindo-se o Laboratório de Integração e Testes de Satélites
+- LIT e o Centro de Rastreio e Controle de Satélites - CRC, ambos no
+Instituto Nacional de Pesquisas Espaciais, do Ministério da Ciência e
+98
+Programa Nacional de Atividades Espaciais (PNAE)
+Tecnologia. Resultados dignos de igual destaque foram a implantação
+do Centro de Lançamento de Alcântara - CLA e a consecução das
+principais etapas de desenvolvimento do Veículo Lançador de Satélites,
+o VLS, ambos pelo Departamento de Pesquisa e Desenvolvimento do
+Ministério da Aeronáutica.
+• As características geoeconômicas do Brasil fazem com que sejam muito
+expressivas as potencialidades de aplicação da tecnologia espacial no
+atendimento a um rol numeroso de necessidades nacionais. Essas
+características incluem a grande extensão territorial; a concentração
+demográfica ao longo da zona costeira; as vastas regiões de florestas
+tropicais; as amplas áreas de difícil acesso e baixa ocupação; as extensas
+fronteiras e costa marítima; e o significativo volume de recursos naturais
+ainda insatisfatoriamente mapeados.
+• A localização especial do Brasil no globo terrestre permite que se
+concebam sistemas espaciais específicos e economicamente vantajosos
+para a solução de alguns problemas de interesse nacional, os quais
+poderão ainda interessar a outros países vizinhos ou localizados em
+regiões propícias do planeta.
+• As alterações geopolíticas no cenário internacional têm provocado
+mudanças no perfil dos programas espaciais em todo o mundo, criando
+maiores oportunidades de cooperação internacional e maior valorização
+de programas menores, menos dispendiosos e voltados a resultados de
+mais curto prazo.
+• Como decorrência das tendências no âmbito internacional, as tecnologias
+de pequenos satélites e de veículos lançadores de menor porte passam a
+ter maior importância, valorizando a experiência brasileira adquirida com
+a MECB e criando maiores oportunidades para futuras iniciativas.
+• Os veículos de transporte espacial merecem atenção especial, em razão
+da natureza das tecnologias envolvidas, das dificuldades de cooperação
+internacional e do valor estratégico, assegurando ao País autonomia na
+colocação no espaço dos satélites das plataformas e das cargas úteis de
+seu interesse.
+99
+• Os avanços do Brasil no setor espacial precisam ser consolidados e
+ampliados. Isto requer que se complete, mantenha e atualize a infraestrutura
+existente, que se aumente e aprimore a base de recursos
+humanos dedicados às atividades espaciais, que se amplie a participação
+institucional nos programas espaciais, e que se criem oportunidades
+de comercialização dos produtos e serviços de natureza espacial.
+A participação institucional aqui referida abrange tanto o setor
+governamental quanto o privado e, em especial, o parque industrial
+brasileiro.
+IV. Objetivos
+A Política Nacional de Desenvolvimento das Atividades Espaciais - PNDAE tem
+como objetivo geral promover a capacidade do País para, segundo conveniência
+e critérios próprios, utilizar os recursos e as técnicas espaciais na solução de
+problemas nacionais e em benefício da sociedade brasileira.
+Para a consecução deste objetivo geral, identificam-se os seguintes objetivos
+específicos:
+1. Estabelecimento no País de competência técnico-científica na área espacial,
+que lhe possibilite atuar com real autonomia:
+• Na seleção de alternativas tecnológicas para a solução de problemas
+brasileiros;
+• No desenvolvimento de soluções próprias para problemas específicos
+de nosso território ou de nossa sociedade, sempre que alternativas mais
+econômicas não sejam disponíveis ou de acesso assegurado;
+• Na efetiva utilização das informações propiciadas pelos meios espaciais
+que sejam de interesse para a sociedade brasileira; e
+• Nas negociações, nos acordos e nos tratados internacionais envolvendo
+matérias pertinentes às atividades espaciais ou que possam beneficiar-se
+dos conhecimentos decorrentes dessas atividades.
+2. Promoção do desenvolvimento de sistemas espaciais, bem como de meios,
+100
+Programa Nacional de Atividades Espaciais (PNAE)
+técnicas e infra-estrutura de solo correspondentes, que venham propiciar
+ao Brasil a disponibilidade de serviços e informações de sua necessidade ou
+interesse.
+3. Adequação do setor produtivo brasileiro para participar e adquirir
+competitividade em mercados de bens e serviços espaciais.
+V. Diretrizes
+No planejamento e na execução dos programas decorrentes dos objetivos
+acima explicitados, as seguintes diretrizes deverão ser observadas:
+1. Prioridade para a Solução de Problemas Nacionais
+Os recursos destinados ao desenvolvimento das atividades espaciais brasileiras
+deverão concentrar-se em iniciativas voltadas à busca de soluções, propiciadas
+pelos conhecimentos e meios espaciais, para problemas de âmbito nacional
+ou de interesse para o País.
+2. Concentração de Esforços em Programas Mobilizadores
+A experiência internacional tem demonstrado que o progresso no setor espacial
+é mais significativo, e apreciado pela opinião pública, quando alavancado
+através de grandes programas mobilizadores, que concentrem esforços em
+objetivos claros conseqüentes e meritórios, e que imponham consideráveis
+desafios científicos e tecnológicos aos órgãos e às empresas incumbidos de
+sua execução.
+A Agência Espacial Brasileira e os demais órgãos integrantes do Sistema
+Nacional de Atividades Espaciais deverão buscar, permanentemente, conceber
+novas iniciativas e organizar as atividades em andamento através de programas
+com as características ressaltadas acima.
+3. Escopo delimitado pelos Resultados Finais
+As ações governamentais na área espacial deverão ser organizadas através
+de programas concebidos, de forma a garantir que os resultados almejados
+se materializem em benefícios concretos para a sociedade brasileira. Como
+conseqüência, os programas de aplicações deverão considerar todos os
+101
+segmentos necessários para garantir o efetivo acesso do usuário final aos
+produtos e serviços possibilitados pelo programa, bem como deverão considerar
+a disponibilidade de meios para a plena utilização das novas informações
+disponíveis. Em geral, esta diretriz implica em esforços significativos de análise
+e processamento de dados e no desenvolvimento de tecnologias para tal fim,
+bem como no estabelecimento e na operação de estruturas apropriadas. Implica
+também em esforços de difusão tecnológica.
+4. Análise Criteriosa dos Investimentos
+Os investimentos governamentais em pesquisa e desenvolvimento na área
+espacial deverão buscar, explicitamente, a consecução dos objetivos expressos
+nesta política. Adicionalmente, dever-se-á requerer que os programas e projetos
+a serem financiados tenham um claro sentido de eficácia, devendo-se:
+• Priorizar iniciativas associadas a uma distribuição equilibrada de
+resultados ao longo do tempo, onde se garantam conseqüências de
+curto e médio prazo que diminuam o risco global de projeto e possam
+facilitar a decisão de dar continuidade aos investimentos; e
+• Submeter as propostas de investimentos em programas a análises
+de custo-benefício, que levem em conta os resultados a serem
+alcançados.
+5. Cooperação Internacional Conseqüente
+A cooperação internacional apresenta-se nos dias atuais como a forma natural
+de viabilizar os empreendimentos espaciais que, tipicamente, são bastante
+dispendiosos. No entanto, há que se ter clareza de que na área tecnológica a
+cooperação entre países não costuma ter o caráter de intercâmbio gratuito de
+informações valiosas. Compartilha-se o estritamente necessário à consecução
+do objetivo comum. Neste contexto, as seguintes orientações deverão ser
+observadas:
+• As propostas de acordo de cooperação internacional deverão explicitar
+com clareza e pragmatismo os benefícios decorrentes para as partes
+envolvidas, sendo que os interesses associados à participação brasileira
+deverão situar-se primordialmente no âmbito dos objetivos desta
+política;
+102
+Programa Nacional de Atividades Espaciais (PNAE)
+• As iniciativas de cooperação de cunho científico deverão ser incentivadas,
+buscando-se estabelecer condições favoráveis ao intercâmbio de pessoal,
+instrumentação e dados, bem como assegurar participação proveitosa
+para o Brasil nos grandes programas científicos internacionais;
+• As oportunidades de cooperação no âmbito da engenharia e tecnologia
+de sistemas espaciais e correspondente infra-estrutura deverão ser
+aproveitadas na medida do interesse e das necessidades do País;
+• Iniciativas de cooperação com países que compartilhem problemas e
+dificuldades similares aos do Brasil deverão merecer especial atenção; e
+• O estabelecimento e a adoção de padrões internacionais deverão ser
+apoiados como forma de facilitar o intercâmbio de informações e
+assegurar uma crescente compatibilização de sistemas espaciais entre
+organizações cooperantes em todo o mundo.
+6. Incentivo à Participação Industrial
+A participação da indústria nacional nos programas de desenvolvimento de
+tecnologias e sistemas espaciais é condição necessária para a efetiva absorção
+pelo setor produtivo da capacitação promovida por esses programas. Esta
+participação deverá ser prevista de forma explícita nas propostas de novos
+programas, devendo-se:
+• Promover a qualificação da indústria nacional não apenas para
+o fornecimento de partes e equipamentos, mas, também, para
+o desenvolvimento e a manufatura de subsistemas e sistemas
+completos;
+• Buscar a integração entre as equipes das instituições de pesquisa e
+desenvolvimento e os seus parceiros industriais, através da realização
+conjunta de projetos de desenvolvimento tecnológico que incluam a
+indústria desde a etapa de concepção; e
+• Buscar aprovação de planos de longo prazo que permitam às empresas
+nacionais decidir, com menor grau de incerteza, sobre sua participação
+no programa espacial brasileiro.
+103
+7. Utilização Otimizada de Recursos
+Os recursos humanos e de infra-estrutura disponíveis no País deverão ser
+reconhecidos como escassos e, consequentemente, especialmente valorizados,
+preservados e utilizados de forma otimizada. Neste contexto, deverão ser
+observados, ainda, os seguintes aspectos:
+• A análise das propostas de novas iniciativas deverá levar em conta
+as necessidades e disponibilidades de recursos humanos e de infraestrutura,
+buscando-se evitar tanto a duplicação de esforços quanto a
+sobrecarga e o desmembramento de equipes; e
+• As instalações laboratoriais implantadas nas instituições governamentais
+de pesquisa e desenvolvimento para atender ao Programa Nacional de
+Atividades Espaciais deverão ser compartilhadas com universidades e
+empresas nacionais, sem prejuízo de suas funções precípuas.
+8. Capacitação em Tecnologias Estratégicas
+Os projetos de capacitação em novas tecnologias deverão priorizar o domínio
+de tecnologias consideradas estratégicas para o País, segundo critérios que
+incluam:
+• Importância para sistemas ou serviços espaciais de grande interesse para
+o País;
+• Dificuldades de importação existentes no âmbito internacional;
+• Potencial valor comercial dessas tecnologias para empresas brasileiras;
+• Competências e facilidades disponíveis no País, que permitam aspirar a
+contribuições inovadoras ao estado da arte.
+9. Pragmatismo na Concepção de Novos Sistemas Espaciais
+Na concepção de novos projetos de desenvolvimento de sistemas espaciais,
+os esforços deverão voltar-se, preferencialmente, para a solução de problemas
+peculiares à sociedade ou ao território brasileiro e que se incluam, adicionalmente,
+no rol de preocupações da comunidade internacional. As soluções buscadas
+deverão caracterizar-se, preferencialmente, pela atratividade da relação custo104
+Programa Nacional de Atividades Espaciais (PNAE)
+benefício, pela exploração de vantagens comparativas inerentes às condições
+nacionais e pela potencialidade de exploração comercial rentável.
+10. Valorização das Atividades Científicas
+As atividades de investigação científica ou de pesquisa básica no âmbito espacial
+deverão ser valorizadas não apenas por contribuírem para o conhecimento
+universal mas, principalmente, por concorrerem para o desenvolvimento
+nacional.
+11. Ênfase nas Aplicações Espaciais
+As aplicações da tecnologia espacial na solução de problemas típicos de
+um país com as características geopolíticas do Brasil constituem a principal
+justificativa para os investimentos governamentais neste setor. O planejamento
+das atividades espaciais brasileiras deverá contemplar as aplicações da
+tecnologia espacial na solução de problemas como comunicações em regiões
+remotas, monitoramento ambiental, vigilância da Amazônia, patrulhamento de
+fronteiras e da zona costeira, inventário e monitoramento de recursos naturais,
+planejamento e fiscalização do uso do solo, previsão de safras agrícolas, coleta
+de dados ambientais, previsão do tempo e do clima, localização de veículos
+e sinistros e desenvolvimento de processos industriais em ambiente de
+microgravidade, além da defesa e segurança do território nacional.
+As instituições governamentais executoras de atividades espaciais deverão
+atuar no desenvolvimento de sistemas, produtos, processos e métodos que
+viabilizem as aplicações espaciais e deverão, sempre que possível, repassar a
+empresas privadas a prestação de serviços ou o fornecimento de produtos
+derivados dessas aplicações.
+12. Coerência entre Programas Autônomos
+O Programa Nacional de Atividades Espaciais - PNAE, que deverá planejar
+ações que concretizem os objetivos estabelecidos nesta Política, deverá ser
+constituído de programas de cunho científico, de aplicações e de capacitação
+tecnológica, além da implantação, manutenção e ampliação de infra-estrutura
+105
+tanto operacional quanto de apoio às atividades de pesquisa e desenvolvimento.
+Estes diversos programas deverão necessariamente guardar entre si relação de
+coerência de curto e longo prazos.
+Assim, experimentos científicos e missões de aplicação em andamento deverão
+basear-se em tecnologias e facilidades disponíveis ou em fase de aquisição ou
+implantação. Em contrapartida, as necessidades de longo prazo antevistas
+para os programas de aplicações ou científicos deverão condicionar os
+programas de capacitação tecnológica. Desta forma, as missões planejadas
+para o futuro condicionarão os projetos de desenvolvimento de tecnologias
+de satélites e cargas úteis. Essas missões e os requisitos dos satélites, por sua
+vez, condicionarão as propostas de desenvolvimento tecnológico de veículos
+de transporte espacial.
+Finalmente, as propostas de ampliação da infra-estrutura de apoio operacional
+e de apoio à pesquisa e desenvolvimento deverão dar-se em função das futuras
+necessidades dos demais programas.
+13. Conciliação dos Objetivos Tecnológicos com os Objetivos Científicos e os
+de Aplicações
+A conciliação dos objetivos de desenvolvimento tecnológico de sistemas
+espaciais com os objetivos científicos e os de aplicação deverá ser um
+pressuposto fundamental na programação do desenvolvimento das atividades
+espaciais.
+Há que reconhecer que, em muitos casos, o desenvolvimento tecnológico gera a
+possibilidade de aplicações. Por outro lado, a necessidade de solução de problemas
+de interesse nacional gera desafios tecnológicos. É da conjunção destes dois pontos
+de vista que deverão ser fixadas as metas do programa espacial.
+Em geral os objetivos tecnológicos puros são estabelecidos pela extrapolação
+da capacidade tecnológica instalada em incrementos distribuídos ao longo do
+tempo, sempre visando o aperfeiçoamento das tecnologias ou a incorporação
+de novas. Pode-se dizer que o objetivo tecnológico último é o domínio de
+tecnologias, inclusive como reserva nacional, para fazer face a necessidades
+106
+Programa Nacional de Atividades Espaciais (PNAE)
+futuras não contempladas na programação atual.
+Os objetivos científicos e os de aplicações deverão ser voltados,
+respectivamente, para:
+• O avanço do conhecimento universal, que pode beneficiar-se de ou
+contribuir para o desenvolvimento das atividades espaciais, no primeiro
+caso;
+• A solução de problemas de âmbito nacional ou de interesse do País, no
+caso das aplicações.
+Neste contexto, torna-se irrelevante se a tecnologia utilizada foi desenvolvida
+no País ou adquirida no exterior, desde que o resultado prático final seja
+obtido.
+14. Tecnologias de Uso Duplo
+Expressiva parcela das tecnologias desenvolvidas para aplicações espaciais
+pode encontrar uso duplo.
+O PNAE deverá observar as políticas de governo e a legislação vigente sobre
+o controle de exportação de bens de uso duplo e de serviços diretamente
+vinculados, procurando assegurar, quando apropriado, a coordenação de
+atividades da Agência, e demais órgãos federais, a respeito desses bens e
+serviços.
+15. Outras Diretrizes
+No Programa Nacional de Atividades Espaciais - PNAE deverão ser contemplados
+não apenas programas, projetos e atividades de pesquisa e desenvolvimento
+de caráter científico, de aplicações e de capacitação tecnológica de natureza
+específica, mas, também, programas e atividades, de abrangência geral,
+pautados pelas diretrizes explicitadas a seguir:
+• Promover a formação e o aprimoramento de recursos humanos altamente
+qualificados, bem como a fixação e o fortalecimento, nas instituições
+nacionais, de equipes de pesquisa e desenvolvimento especializadas,
+em todos os campos das atividades espaciais de interesse para o País;
+107
+• Promover a cooperação internacional em todos os níveis, como forma de
+acelerar a aquisição de conhecimento científico e tecnológico, garantir
+o acesso a dados e viabilizar economicamente o desenvolvimento de
+sistemas espaciais de interesse para o País;
+• Promover maior integração das universidades e das empresas brasileiras
+nas atividades espaciais, através de mecanismos diversos, como os
+contratos industriais para o fornecimento de partes, equipamentos,
+subsistemas e serviços, no bojo dos programas nacionais de
+desenvolvimento de sistemas espaciais, ou como o fomento à formação
+de núcleos especializados em tecnologia espacial nas instituições
+nacionais de ensino e pesquisa. Essas iniciativas permitirão ampliar
+a base de sustentação e os mecanismos de capacitação de recursos
+humanos para as atividades espaciais, bem como buscar, gradual e
+seletivamente, a autonomia do País em alguns setores tecnológicos
+considerados prioritários;
+• Promover prioritariamente o desenvolvimento de sistemas espaciais,
+que aliem objetivos claros de capacitação tecnológica e industrial aos
+objetivos precípuos de natureza utilitária ou científica;
+• Promover o desenvolvimento e a difusão das aplicações espaciais, em
+estreita consonância com as políticas governamentais para os setores
+a serem diretamente beneficiados;
+• Promover e incentivar a participação empresarial no financiamento
+de sistemas espaciais destinados à prestação de serviços em bases
+comerciais.
+• Incentivar iniciativas de exploração comercial, prioritariamente pelo setor
+privado, de serviços e produtos decorrentes ou associados às atividades
+espaciais;
+• Completar, manter e adequar a infra-estrutura necessária às
+missões espaciais de interesse nacional, incluindo-se laboratórios de
+desenvolvimento, integração e testes de sistemas espaciais, centros de
+rastreio e controle e bases de lançamento; e
+108
+Programa Nacional de Atividades Espaciais (PNAE)
+• Promover a difusão e a efetiva utilização das informações técnicocientíficas
+de interesse espacial, com ênfase naquelas de caráter normativo.
+109
+Anexo IV
+Decreto nº 1.953, de 10 de julho de 1996
+Institui o Sistema Nacional de Desenvolvimento das Atividades Espaciais
+SINDAE e dá outras providências
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art.
+84, inciso IV, da Constituição, e tendo em vista o disposto no art. 4º da Lei nº
+8.854, de 10 de fevereiro de 1994,
+Decreta:
+Art. 1º Fica instituído o Sistema Nacional de Desenvolvimento das Atividades
+Espaciais - SINDAE, com a finalidade de organizar a execução das atividades
+destinadas ao desenvolvimento espacial de interesse nacional.
+Art. 2º O SINDAE é constituído por um órgão central, responsável por sua
+coordenação geral, por órgãos setoriais, responsáveis pela coordenação setorial
+e execução das ações contidas no Programa Nacional de Atividades Espaciais
+- PNAE e por órgãos e entidades participantes, responsáveis pela execução de
+ações específicas do PNAE.
+Art. 3º Integram o SINDAE:
+I. Como órgão central, a Agência Espacial Brasileira - AEB;
+II. Como órgãos setoriais:
+a. Departamento de Pesquisa e Desenvolvimento do Ministério da
+Aeronáutica - DEPED;
+b. Instituto Nacional de Pesquisas Espaciais do Ministério da Ciência
+e Tecnologia - INPE;
+III. Como órgãos e entidades participantes:
+110
+Programa Nacional de Atividades Espaciais (PNAE)
+a. Os Ministérios e Secretarias da Presidência da República, quando
+envolvidos no assunto, por seus representantes indicados pela
+autoridade competente;
+b. Os Estados, o Distrito Federal e os Municípios quando houver
+interesse, por representante indicado pelo Chefe do Poder Executivo
+respectivo;
+c. O setor privado, por indicação do seu representante legal.
+§1º Em quaisquer das hipóteses previstas no inciso III, o ingresso no SINDAE
+dependerá de prévia aprovação do Conselho Superior da AEB.
+§2º O ingresso no SINDAE dos órgãos e entidades descritos no inciso III será
+formalizado mediante a assinatura de convênio de participação.
+§3º Os convênios de participação deverão estabelecer claramente as ações
+a serem desenvolvidas pelos órgãos ou entidades signatários, inclusive as de
+caráter orçamentário e financeiro, de modo a viabilizar a completa execução
+do PNAE, com maior aproveitamento dos recursos disponíveis.
+Art. 4º O funcionamento do SINDAE será regulado mediante resolução
+normativa, aprovada pelo Conselho Superior da AEB.
+Art. 5º Este Decreto entra em vigor na data de sua publicação.
+Brasília, 10 de julho de 1996; 175º da Independência e 108º da República
+FERNANDO HENRIQUE CARDOSO
+Clóvis de Barros Carvalho
+111
+Índice de Siglas
+ABNT
+Associação Brasileira de Normas Técnicas
+ABC
+Academia Brasileira de Ciências
+AEB
+Agência Espacial Brasileira
+ANATEL
+Agência Nacional de Telecomunicações
+CAPES
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+CBERS
+China-Brazil Earth Resources Satellite (Satélite Sino-Brasileiro de Recursos Terrestres)
+CEA
+Centro Espacial de Alcântara
+CLA
+Centro de Lançamento de Alcântara
+CLBI
+Centro de Lançamento da Barreira do Inferno
+CNAE
+Comissão Nacional de Atividades Espaciais
+CNPq
+Conselho Nacional de Desenvolvimento Científico e Tecnológico
+COBAE
+Comissão Brasileira de Atividades Espaciais
+COMAer
+Comando da Aeronáutica
+CVS/ATM
+Communication, Navigation, Surveillance, and Air Traffic Management (Comunicação,
+Navegação, Vigilância e Controle de Tráfego Aéreo)
+112
+Programa Nacional de Atividades Espaciais (PNAE)
+CRC
+Centro de Rastreio e Controle de Satélites
+CTA
+Centro Técnico Aeroespacial
+CT&I
+Ciência, Tecnologia e Informação
+DEPED
+Departamento de Pesquisa e Desenvolvimento
+DLR
+Deutschen Zentrum für Luft- und Raumfahrt (Centro Aeroespacial Alemão)
+EEI
+Estação Espacial Internacional
+EQUARS
+Equatorial Atmosphere Research Satellite (Satélite de Pesquisa da Atmosfera
+Equatorial
+FINEP
+Financiadora de Estudos e Projetos
+GOCNAE
+Grupo de Organização da Comissão Nacional de Atividades Espaciais
+GEOSS
+Global Earth Observation System of Systems (Sistema de Sistemas Globais de Observação
+da Terra)
+GPM
+Global Precipitation Measurement (Medidas Globais da Precipitação)
+GPS
+Global Positioning System (Sistema de Posicionamento Global)
+HSB
+Humidity Sounder for Brazil (Sensor de Umidade Brasileiro)
+IAE
+Instituto de Aeronáutica e Espaço
+IAI
+Inter-American Institute for Global Change Research (Instituto Inter-Americano de
+Pesquisas de Mudanças Globais)
+113
+INPE
+Instututo Nacional de Pesquisas Espaciais
+ISO
+Internacional Organization for Standardization (Organização Internacional de
+Padronização)
+ISS
+International Space Station (Estação Espacial Internacional)
+LCP
+Laboratório de Combustão e Propulsão
+LIT
+Laboratório de Integração e Testes
+MCT
+Ministério da Ciência e Tecnologia
+MCTR
+Missile Technology Control Regime (Regime de Controle de Tecnologia de Mísseis)
+MECB
+Missão Espacial Completa Brasileira
+MIRAX
+Monitor e Imageador de Raios X
+PAPPE
+Programa de Apoio à Pesquisa em Empresas
+PCD
+Plataforma de Coleta de Dados
+PIPE
+Programa de Inovação Tecnológica em Pequenas Empresas
+PMM
+Plataforma Multimissão
+PNAE
+Programa Nacional de Atividades Espaciais
+PNDAE
+Política Nacional de Desenvolvimento das Atividades Espaciais
+PPA
+Plano Plurianual de Investimentos
+114
+Programa Nacional de Atividades Espaciais (PNAE)
+PPP
+Parceria Público Privada
+RECDAS
+Rede Dedicada de Comunicação de Dados
+RHAE
+Programa de Recursos Humanos para Atividades Estratégicas
+SAR
+Abertura Sintética
+SCD
+Satélite de Coleta de Dados
+SGBD
+Sistemas Gerenciadores de Bancos de Dados
+SINACESPAÇO
+Sistema Nacional de Certificação na Área Espacial
+SINDAE
+Sistema Nacional de Desenvolvimento das Atividades Espaciais
+SSR
+Satélite de Sensoriamento Remoto
+UCA
+Usina de Propelentes Coronel Abner
+VLS
+Veículo Lançador de Satélites
+WFI
+Wide Field Imager (Imageador de Campo Largo)
+

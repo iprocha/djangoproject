@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Indexer</title>	
+		{% load staticfiles %}
+		<script type="text/javascript" src="{{ MEDIA_URL }}jquery-2.1.0.js"></script>
+		<link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}style.css" />
+	
+	</head>
+
+<body background="{{ MEDIA_URL }}mapa.jpg">
+
+
+
+
+
+		<!-- List of uploaded documents -->
+		<h1 class="titulo"> INDEXER</h1>
+<div class="box1" style="position:relative;">
+<h1 >Documentos</h1>
+		{% if documents %}
+		<form>
+			<ol>
+			{% for document in documents %}
+			
+				
+				<li {% if forloop.counter|divisibleby:2 %} style="background: #E8E8E8 ;"{% endif %}	><a class="filename" href="{{ document.docfile.url }}">{{ document.docfile.name }}</a><a class="button" style="float:right; margin-left:6px;" href="/indexer/algorithm/{{ document.id }}?">Indexar</a><a href="/indexer/delete/{{ document.id }}"><img src="{{ MEDIA_URL }}delete.png" width="50" height="50" alt="Next button"></a></li>
+				
+				
+			{% endfor %}
+			</ol>
+			</form>
+		{% else %}
+			<p>Nenhum documento aberto.</p>
+		{% endif %}
+
+		<!-- Upload form. Note enctype attribute! -->
+		<form style="position:absolute;bottom:0px;"  action="{% url "list" %}" method="post" enctype="multipart/form-data">
+			{% csrf_token %}
+			<p>{{ form.non_field_errors }}</p>
+			<p>{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
+			<p>
+				{{ form.docfile.errors }}
+				{{ form.docfile }}
+			</p>
+			<p><input class="upload" type="submit" value="Upload" /></p>
+		</form>
+		</div> 
+		
+		<div class="box2" style="position:relative;" >
+		<h1 >Dicionários</h1>
+		 <form >
+     <ul >
+      <li style="background: #E8E8E8 ;"><input class="dicionarios" id="1" type="checkbox" value="1"> Dicionário Astronômico<img align="right" src="{{ MEDIA_URL }}delete.png" ></li>
+      <li><input class="dicionarios" id="2" type="checkbox" value="1"> Dicionário Astronômico Amostragem <img align="right" src="{{ MEDIA_URL }}delete.png" ></li>
+     </ul>
+    </form>
+    <div class="form2" style="position:absolute;bottom:0px;">
+    <input class="texto"  type="text" name="campo"><input class="selecionar" type="submit" value="Selecionar">
+    <br><input class="upload"  type="submit" value="Upload">
+    </div>
+		</div>
+		
+		
+	</body>
+
+</html> 
